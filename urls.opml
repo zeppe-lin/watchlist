@@ -568,6 +568,7 @@
     <outline text="lsw @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/lsw/commits/master.atom" category="desktop"/>
     <outline text="lxappearance @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/lxde/rss?path=/LXAppearance" category="desktop"/>
     <outline text="lxinput @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/lxde/lxinput/tags.atom" category="desktop"/>
+    <outline text="lxrandr @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/lxde/lxrandr/tags.atom" category="desktop"/>
     <outline text="lxtask @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/lxde/lxtask/tags.atom" category="desktop"/>
     <outline text="lynx @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/lynx/-/tags?format=atom" category="desktop"/>
     <outline text="mac @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/mac/-/tags?format=atom" category="desktop"/>
@@ -795,7 +796,6 @@
     <outline text="libtorrent-rasterbar @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/arvidn/libtorrent/releases.atom" category="stuff"/>
     <outline text="linkfinder @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/GerbenJavado/LinkFinder/commits/master.atom" category="stuff"/>
     <outline text="linssid @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/linssid/rss?path=/" category="stuff"/>
-    <outline text="lxrandr @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/lxde/lxrandr/tags.atom" category="stuff"/>
     <outline text="macchanger @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/alobbs/macchanger/commits/master.atom" category="stuff"/>
     <outline text="macchanger @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/alobbs/macchanger/releases.atom" category="stuff"/>
     <outline text="mandoc @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/mandoc/-/tags?format=atom" category="stuff"/>
