@@ -1,0 +1,440 @@
+atk @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/atk/-/tags?format=atom 
+
+cairo @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/cairo/cairo/-/tags?format=atom 
+
+fontconfig @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/fontconfig/fontconfig/-/tags?format=atom 
+
+fribidi @ github.com releases
+  https://github.com/fribidi/fribidi/releases.atom
+
+gdk-pixbuf @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/tags?format=atom 
+
+glslang @ github.com releases
+  https://github.com/KhronosGroup/glslang/releases.atom
+
+glslang @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/glslang/-/tags?format=atom 
+
+glu @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/mesa/glu/-/tags?format=atom 
+
+gtk @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gtk2/-/tags?format=atom 
+
+gtk3 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gtk3/-/tags?format=atom 
+
+gtk3-classic @ github.com releases
+  https://github.com/lah7/gtk3-classic/releases.atom
+
+gxmessage @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gxmessage/-/tags?format=atom 
+
+gxmessage/gxmessage3 @ savannah.gnu.org news
+  https://savannah.gnu.org/news/atom.php?group=gxmessage 
+
+harfbuzz @ github.com releases
+  https://github.com/harfbuzz/harfbuzz/releases.atom
+
+hicolor-icon-theme @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xdg/default-icon-theme/-/tags?format=atom 
+
+libdrm @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/mesa/drm/-/tags?format=atom 
+
+libepoxy @ github.com releases
+  https://github.com/anholt/libepoxy/releases.atom
+
+libglvnd @ github.com releases
+  https://github.com/NVIDIA/libglvnd/releases.atom
+
+libinput @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/libinput/libinput/-/tags?format=atom 
+
+libjpeg-turbo @ github.com releases
+  https://github.com/libjpeg-turbo/libjpeg-turbo/releases.atom
+
+libpthread-stubs @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/pthread-stubs/-/tags?format=atom 
+
+libva @ github.com releases
+  https://github.com/intel/libva/releases.atom
+
+libvdpau @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/vdpau/libvdpau/-/tags?format=atom 
+
+libxkbcommon @ github.com releases
+  https://github.com/xkbcommon/libxkbcommon/releases.atom
+
+libxslt @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/libxslt/-/tags?format=atom 
+
+mesa @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mesa/-/tags?format=atom 
+
+mesa @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/mesa/mesa/-/tags?format=atom 
+
+mtdev @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mtdev/-/tags?format=atom 
+
+ninja @ github.com releases
+  #https://github.com/ninja-build/ninja/releases.atom
+
+pango @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/pango/-/tags?format=atom 
+
+picom @ github.com releases
+  https://github.com/yshui/picom/releases.atom
+
+py3-mako @ github.com releases
+  https://github.com/sqlalchemy/mako/releases.atom
+
+py3-markupsafe @ github.com releases
+  https://github.com/pallets/markupsafe/releases.atom
+
+py3-yaml @ github.com releases
+  https://github.com/yaml/pyyaml/releases.atom
+
+slock @ gitlab.archlinux.org
+  https://gitlab.archlinux.org/archlinux/packaging/packages/slock/-/tags?format=atom 
+
+spice-protocol @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/spice/spice-protocol/-/tags?format=atom 
+
+spirv-headers @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/spirv-headers/-/tags?format=atom 
+
+spirv-tools @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/spirv-tools/-/tags?format=atom 
+
+transset @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/transset/-/tags?format=atom 
+
+ttf-font-bitstream-vera @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ttf-bitstream-vera/-/tags?format=atom 
+
+ttf-font-dejavu @ github.com releases
+  https://github.com/dejavu-fonts/dejavu-fonts/releases.atom
+
+ttf-font-ibm-plex @ github.com releases
+  https://github.com/IBM/plex/releases.atom
+
+ttf-font-iosevka-nerd @ github.com commits:master
+  https://github.com/ryanoasis/nerd-fonts/commits/master/patched-fonts/Iosevka.atom
+
+ttf-font-jetbrains-mono @ github.com releases
+  https://github.com/JetBrains/JetBrainsMono/releases.atom
+
+ttf-font-jetbrains-mono-nerd @ github.com commits:master
+  https://github.com/ryanoasis/nerd-fonts/commits/master/patched-fonts/JetBrainsMono.atom
+
+ttf-font-terminus @ ax86.net tags
+  https://www.ax86.net/feeds/tag/terminus.atom.xml 
+
+ttf-font-twemoji-color @ github.com releases
+  https://github.com/13rac1/twemoji-color-font/releases.atom
+
+vulkan-headers @ github.com tags
+  https://github.com/KhronosGroup/Vulkan-Headers/tags.atom
+
+vulkan-headers @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-headers/-/tags?format=atom 
+
+vulkan-loader @ github.com tags
+  https://github.com/KhronosGroup/Vulkan-Loader/tags.atom
+
+vulkan-loader @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-icd-loader/-/tags?format=atom 
+
+xautolock @ tracker.debian.org news
+  https://tracker.debian.org/pkg/xautolock/rss 
+
+xclip @ github.com releases
+  https://github.com/astrand/xclip/releases.atom
+
+xdialog @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xdialog/-/tags?format=atom 
+
+xdotool @ github.com releases
+  https://github.com/jordansissel/xdotool/releases.atom
+
+xkbswitch @ github.com commits:master
+  #https://github.com/zeppe-lin/xkbswitch/commits/master.atom
+
+xkeyboard-config @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/tags?format=atom 
+
+xorg-bdftopcf @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/util/bdftopcf/-/tags?format=atom 
+
+xorg-cf-files @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/util/cf/-/tags?format=atom 
+
+xorg-font-alias @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/font/alias/-/tags?format=atom 
+
+xorg-font-misc-misc @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/font/misc-misc/-/tags?format=atom 
+
+xorg-font-util @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/font/util/-/tags?format=atom 
+
+xorg-imake @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/util/imake/-/tags?format=atom 
+
+xorg-libevdev @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/libevdev/libevdev/-/tags?format=atom 
+
+xorg-libfontenc @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libfontenc/-/tags?format=atom 
+
+xorg-libice @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libice/-/tags?format=atom 
+
+xorg-libpciaccess @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libpciaccess/-/tags?format=atom 
+
+xorg-libpixman @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/pixman/pixman/-/tags?format=atom 
+
+xorg-libsm @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libsm/-/tags?format=atom 
+
+xorg-libx11 @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libx11/-/tags?format=atom 
+
+xorg-libxau @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxau/-/tags?format=atom 
+
+xorg-libxaw @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxaw/-/tags?format=atom 
+
+xorg-libxcb @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb/-/tags?format=atom 
+
+xorg-libxcomposite @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcomposite/-/tags?format=atom 
+
+xorg-libxcursor @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcursor/-/tags?format=atom 
+
+xorg-libxcvt @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcvt/-/tags?format=atom 
+
+xorg-libxdamage @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxdamage/-/tags?format=atom 
+
+xorg-libxdmcp @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxdmcp/-/tags?format=atom 
+
+xorg-libxext @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxext/-/tags?format=atom 
+
+xorg-libxfixes @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxfixes/-/tags?format=atom 
+
+xorg-libxfont2 @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxfont/-/tags?format=atom 
+
+xorg-libxft @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxft/-/tags?format=atom 
+
+xorg-libxi @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxi/-/tags?format=atom 
+
+xorg-libxinerama @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxinerama/-/tags?format=atom 
+
+xorg-libxkbfile @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxkbfile/-/tags?format=atom 
+
+xorg-libxmu @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxmu/-/tags?format=atom 
+
+xorg-libxpm @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxpm/-/tags?format=atom 
+
+xorg-libxpresent @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxpresent/-/tags?format=atom 
+
+xorg-libxrandr @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxrandr/-/tags?format=atom 
+
+xorg-libxrender @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxrender/-/tags?format=atom 
+
+xorg-libxres @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxres/-/tags?format=atom 
+
+xorg-libxscrnsaver @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxscrnsaver/-/tags?format=atom 
+
+xorg-libxshmfence @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxshmfence/-/tags?format=atom 
+
+xorg-libxt @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxt/-/tags?format=atom 
+
+xorg-libxtst @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxtst/-/tags?format=atom 
+
+xorg-libxv @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxv/-/tags?format=atom 
+
+xorg-libxvmc @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxvmc/-/tags?format=atom 
+
+xorg-libxxf86dga @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxxf86dga/-/tags?format=atom 
+
+xorg-libxxf86vm @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxxf86vm/-/tags?format=atom 
+
+xorg-mkfontscale @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/mkfontscale/-/tags?format=atom 
+
+xorg-rgb @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/rgb/-/tags?format=atom 
+
+xorg-server @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/xserver/-/tags?format=atom 
+
+xorg-setxkbmap @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/setxkbmap/-/tags?format=atom 
+
+xorg-util-macros @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/util/macros/-/tags?format=atom 
+
+xorg-xauth @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xauth/-/tags?format=atom 
+
+xorg-xbacklight @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xbacklight/-/tags?format=atom 
+
+xorg-xbitmaps @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/data/bitmaps/-/tags?format=atom 
+
+xorg-xcalc @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xcalc/-/tags?format=atom 
+
+xorg-xcb-proto @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/proto/xcbproto/-/tags?format=atom 
+
+xorg-xcb-util @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb-util/-/tags?format=atom 
+
+xorg-xcb-util-image @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb-image/-/tags?format=atom 
+
+xorg-xcb-util-keysyms @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb-keysyms/-/tags?format=atom 
+
+xorg-xcb-util-renderutil @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb-render-util/-/tags?format=atom 
+
+xorg-xcb-util-wm @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxcb-wm/-/tags?format=atom 
+
+xorg-xcompmgr @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xcompmgr/-/tags?format=atom 
+
+xorg-xcursorgen @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xcursorgen/-/tags?format=atom 
+
+xorg-xdpyinfo @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xdpyinfo/-/tags?format=atom 
+
+xorg-xev @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xev/-/tags?format=atom 
+
+xorg-xf86-input-evdev @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-input-evdev/-/tags?format=atom 
+
+xorg-xf86-input-libinput @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-input-libinput/-/tags?format=atom 
+
+xorg-xf86-input-mouse @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-input-mouse/-/tags?format=atom 
+
+xorg-xf86-input-synaptics @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-input-synaptics/-/tags?format=atom 
+
+xorg-xf86-video-amdgpu @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu/-/tags?format=atom 
+
+xorg-xf86-video-ati @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-video-ati/-/tags?format=atom 
+
+xorg-xf86-video-intel @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-video-intel/-/tags?format=atom 
+
+xorg-xf86-video-nouveau @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-video-nouveau/-/tags?format=atom 
+
+xorg-xf86-video-vesa @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/driver/xf86-video-vesa/-/tags?format=atom 
+
+xorg-xhost @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xhost/-/tags?format=atom 
+
+xorg-xinit @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xinit/-/tags?format=atom 
+
+xorg-xinput @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xinput/-/tags?format=atom 
+
+xorg-xkbcomp @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xkbcomp/-/tags?format=atom 
+
+xorg-xkill @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xkill/-/tags?format=atom 
+
+xorg-xmag @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xmag/-/tags?format=atom 
+
+xorg-xmessage @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xmessage/-/tags?format=atom 
+
+xorg-xmodmap @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xmodmap/-/tags?format=atom 
+
+xorg-xorgproto @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/proto/xorgproto/-/tags?format=atom 
+
+xorg-xprop @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xprop/-/tags?format=atom 
+
+xorg-xrandr @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xrandr/-/tags?format=atom 
+
+xorg-xrdb @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xrdb/-/tags?format=atom 
+
+xorg-xset @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xset/-/tags?format=atom 
+
+xorg-xsetroot @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xsetroot/-/tags?format=atom 
+
+xorg-xtrans @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/lib/libxtrans/-/tags?format=atom 
+
+xorg-xwininfo @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xorg/app/xwininfo/-/tags?format=atom 
+
+xrestop @ github.com/openbsd commits
+  https://github.com/openbsd/ports/commits/master/x11/xrestop.atom
+
+xsel @ github.com releases
+  https://github.com/kfish/xsel/releases.atom
+
+xterm @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xterm/-/tags?format=atom 
+
+shared-mime-info @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xdg/shared-mime-info/-/tags?format=atom

@@ -1,0 +1,917 @@
+7z2hashcat @ github.com commits:master
+  https://github.com/philsmd/7z2hashcat/commits/master.atom
+
+aircrack-ng @ github.com commits:master
+  https://github.com/aircrack-ng/aircrack-ng/commits/master.atom
+
+aircrack-ng @ github.com releases
+  https://github.com/aircrack-ng/aircrack-ng/releases.atom
+
+amass-bin @ github.com releases
+  https://github.com/owasp-amass/amass/releases.atom
+
+apksigcopier @ github.com commits:master
+  https://github.com/obfusk/apksigcopier/commits/master.atom
+
+apktool-bin @ github.com commits:master
+  https://github.com/iBotPeaches/Apktool/commits/master.atom
+
+apktool-bin @ github.com releases
+  https://github.com/iBotPeaches/Apktool/releases.atom
+
+arp-scan @ github.com commits:master
+  https://github.com/royhills/arp-scan/commits/master.atom
+
+arp-scan @ github.com releases
+  https://github.com/royhills/arp-scan/releases.atom
+
+arpoison @ github.com package:freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/net/arpoison.atom
+
+arpspoof @ github.com commits:master
+  https://github.com/byt3bl33d3r/arpspoof/commits/master.atom
+
+asleap @ github.com commits:master
+  https://github.com/funtastix/asleap/commits/master.atom
+
+assetfinder-bin @ github.com releases
+  https://github.com/tomnomnom/assetfinder/releases.atom
+
+boost @ github.com tags
+  https://github.com/boostorg/boost/tags.atom
+
+boost @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/boost/-/tags?format=atom 
+
+btrfs-progs @ github.com releases
+  https://github.com/kdave/btrfs-progs/releases.atom
+
+bully @ github.com commits:master
+  https://github.com/aanarchyy/bully/commits/master.atom
+
+bully @ github.com releases
+  https://github.com/aanarchyy/bully/releases.atom
+
+c-ares @ github.com releases
+  https://github.com/c-ares/c-ares/releases.atom
+
+cabextract @ github.com releases
+  https://github.com/kyz/libmspack/releases.atom
+
+captal @ github.com commits:master
+  https://github.com/sighook/captal/commits/master.atom
+
+captal @ github.com releases
+  https://github.com/sighook/captal/releases.atom
+
+checksec @ github.com releases
+  https://github.com/slimm609/checksec.sh/releases.atom
+
+cowpatty @ github.com commits:master
+  https://github.com/joswr1ght/cowpatty/commits/master.atom
+
+cowpatty @ github.com releases
+  https://github.com/joswr1ght/cowpatty/releases.atom
+
+cppcheck @ github.com releases
+  https://github.com/danmar/cppcheck/releases.atom
+
+dalfox-bin @ github.com releases
+  https://github.com/hahwul/dalfox/releases.atom
+
+dex2jar-bin @ github.com commits:2.x
+  https://github.com/pxb1988/dex2jar/commits/2.x.atom
+
+dex2jar-bin @ github.com releases
+  https://github.com/pxb1988/dex2jar/releases.atom
+
+dhcp-spoof @ github.com commits:master
+  https://github.com/emanuele-f/dhcp-spoof/commits/master.atom
+
+dhex @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dhex/-/tags?format=atom 
+
+dnsgen @ github.com commits:master
+  https://github.com/AlephNullSK/dnsgen/commits/master.atom
+
+docker-bin @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/docker/-/tags?format=atom 
+
+docker-compose-bin @ github.com releases
+  https://github.com/docker/compose/releases.atom
+
+dos2unix @ sourceforge.net releases
+  https://sourceforge.net/projects/dos2unix/rss?path=/dos2unix 
+
+dsniff @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dsniff/-/tags?format=atom 
+
+dsss @ github.com commits:master
+  https://github.com/stamparm/DSSS/commits/master.atom
+
+exif @ github.com releases
+  https://github.com/libexif/exif/releases.atom
+
+extundelete @ salsa.debian.org tags
+  https://salsa.debian.org/pkg-security-team/extundelete/-/tags?format=atom 
+
+ffuf-bin @ github.com releases
+  https://github.com/ffuf/ffuf/releases.atom
+
+fierce @ github.com commits:master
+  https://github.com/sighook/fierce-domain-scanner/commits/master.atom
+
+findomain-bin @ github.com releases
+  https://github.com/Findomain/Findomain/releases.atom
+
+firefox-darkreader-bin @ github.com releases
+  https://github.com/darkreader/darkreader/releases.atom
+
+firefox-search-by-image-bin @ github.com releases
+  https://github.com/dessant/search-by-image/releases.atom
+
+firefox-vimium-bin @ github.com tags
+  https://github.com/philc/vimium/tags.atom
+
+flawfinder @ github.com releases
+  https://github.com/david-a-wheeler/flawfinder/releases.atom
+
+fqlite-bin @ github.com releases
+  https://github.com/pawlaszczyk/fqlite/releases.atom
+
+freerdp2 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/freerdp/-/tags?format=atom 
+
+gau-bin @ github.com releases
+  https://github.com/lc/gau/releases.atom
+
+gencc @ github.com commits:master
+  https://github.com/sighook/gencc/commits/master.atom
+
+gencc @ github.com releases
+  https://github.com/sighook/gencc/releases.atom
+
+ghauri @ github.com commits:main
+  https://github.com/r0oth3x49/ghauri/commits/main.atom
+
+ghidra-bin @ github.com releases
+  https://github.com/NationalSecurityAgency/ghidra/releases.atom
+
+gimp-appimage @ github.com releases
+  https://github.com/aferrero2707/gimp-appimage/releases.atom
+
+gitleaks-bin @ github.com releases
+  https://github.com/gitleaks/gitleaks/releases.atom
+
+gobuster-bin @ github.com releases
+  https://github.com/OJ/gobuster/releases.atom
+
+goldendict-appimage @ github.com releases
+  https://github.com/Abs62/goldendict/releases.atom
+
+gperftools @ github.com releases
+  https://github.com/gperftools/gperftools/releases.atom
+
+graphviz @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/graphviz/-/tags?format=atom 
+
+gspoof @ github.com package:freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/net/gspoof.atom
+
+gspoof @ sourceforge.net releases
+  https://sourceforge.net/projects/gspoof/rss?path=/ 
+
+gtorrentviewer @ github.com package:freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/net-p2p/gtorrentviewer.atom
+
+h8mail @ github.com commits:master
+  https://github.com/khast3x/h8mail/commits/master.atom
+
+hashcat @ github.com commits:master
+  https://github.com/hashcat/hashcat/commits/master.atom
+
+hashcat @ github.com releases
+  https://github.com/hashcat/hashcat/releases.atom
+
+hashcat-utils @ github.com commits:master
+  https://github.com/hashcat/hashcat-utils/commits/master.atom
+
+hashcat-utils @ github.com releases
+  https://github.com/hashcat/hashcat-utils/releases.atom
+
+hashid @ github.com commits:master
+  https://github.com/psypanda/hashID/commits/master.atom
+
+hashid @ github.com releases
+  https://github.com/psypanda/hashID/releases.atom
+
+hcxdumptool @ github.com commits:master
+  https://github.com/ZerBea/hcxdumptool/commits/master.atom
+
+hcxdumptool @ github.com releases
+  https://github.com/ZerBea/hcxdumptool/releases.atom
+
+hcxtools @ github.com commits:master
+  https://github.com/ZerBea/hcxtools/commits/master.atom
+
+hcxtools @ github.com releases
+  https://github.com/ZerBea/hcxtools/releases.atom
+
+heimdall @ github.com releases
+  https://github.com/Benjamin-Dobell/Heimdall/releases.atom
+
+holehe @ github.com commits:master
+  https://github.com/megadose/holehe/commits/master.atom
+
+httprobe-bin @ github.com releases
+  https://github.com/tomnomnom/httprobe/releases.atom
+
+httpx-bin @ github.com releases
+  https://github.com/projectdiscovery/httpx/releases.atom
+
+hunspell @ github.com releases
+  https://github.com/hunspell/hunspell/releases.atom
+
+hunspell-en-us @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/hunspell-en/-/tags?format=atom 
+
+hwloc @ github.com releases
+  https://github.com/open-mpi/hwloc/releases.atom
+
+ipcloak @ github.com commits:master
+  https://github.com/sighook/ipcloak/commits/master.atom
+
+ipobfs @ github.com commits:master
+  https://github.com/sighook/ipobfs/commits/master.atom
+
+jadx-bin @ github.com commits:master
+  https://github.com/skylot/jadx/commits/master.atom
+
+jadx-bin @ github.com releases
+  https://github.com/skylot/jadx/releases.atom
+
+jd-gui-bin @ github.com releases
+  https://github.com/java-decompiler/jd-gui/releases.atom
+
+jdk-bin @ github.com releases
+  https://github.com/corretto/corretto-23/releases.atom
+
+jdk17-bin @ github.com releases
+  https://github.com/corretto/corretto-17/releases.atom
+
+john @ github.com releases
+  https://github.com/openwall/john/releases.atom
+
+johnny @ github.com releases
+  https://github.com/openwall/johnny/releases.atom
+
+joomscan @ github.com commits:master
+  https://github.com/OWASP/joomscan/commits/master.atom
+
+jp2a @ github.com releases
+  https://github.com/Talinx/jp2a/releases.atom
+
+jq @ github.com releases
+  https://github.com/jqlang/jq/releases.atom
+
+karma @ github.com commits:master
+  https://github.com/sighook/karma/commits/master.atom
+
+layer234-attack-tools @ github.com commits:master
+  https://github.com/sighook/layer234-attack-tools/commits/master.atom
+
+layer567-attack-tools @ github.com commits:master
+  https://github.com/sighook/layer567-attack-tools/commits/master.atom
+
+libewf-legacy @ github.com commits:main
+  https://github.com/libyal/libewf-legacy/commits/main.atom
+
+libewf-legacy @ github.com releases
+  https://github.com/libyal/libewf-legacy/releases.atom
+
+libfaketime @ github.com releases
+  https://github.com/wolfcw/libfaketime/releases.atom
+
+libglade @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libglade/-/tags?format=atom 
+
+libglade @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/Archive/libglade/-/tags?format=atom 
+
+libidn @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libidn/-/tags?format=atom 
+
+libnet @ github.com releases
+  https://github.com/libnet/libnet/releases.atom
+
+libnetfilter-queue @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libnetfilter_queue/-/tags?format=atom 
+
+libnids @ sourceforge.net releases
+  https://sourceforge.net/projects/libnids/rss?path=/libnids 
+
+libtorrent-rasterbar @ github.com releases
+  https://github.com/arvidn/libtorrent/releases.atom
+
+linkfinder @ github.com commits:master
+  https://github.com/GerbenJavado/LinkFinder/commits/master.atom
+
+linssid @ sourceforge.net releases
+  https://sourceforge.net/projects/linssid/rss?path=/ 
+
+macchanger @ github.com commits:master
+  https://github.com/alobbs/macchanger/commits/master.atom
+
+macchanger @ github.com releases
+  https://github.com/alobbs/macchanger/releases.atom
+
+mandoc @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mandoc/-/tags?format=atom 
+
+masscan @ github.com commits:master
+  https://github.com/robertdavidgraham/masscan/commits/master.atom
+
+masscan @ github.com releases
+  https://github.com/robertdavidgraham/masscan/releases.atom
+
+massdns @ github.com commits:master
+  https://github.com/blechschmidt/massdns/commits/master.atom
+
+massdns @ github.com releases
+  https://github.com/blechschmidt/massdns/releases.atom
+
+mdk4 @ github.com commits:master
+  https://github.com/aircrack-ng/mdk4/commits/master.atom
+
+metasploit @ github.com releases
+  https://github.com/rapid7/metasploit-framework/releases.atom
+
+mitmproxy-bin @ github.com releases
+  https://github.com/mitmproxy/mitmproxy/releases.atom
+
+multitime @ github.com tags
+  https://github.com/ltratt/multitime/tags.atom
+
+ncrack @ github.com commits:master
+  https://github.com/nmap/ncrack/commits/master.atom
+
+ncrack @ github.com releases
+  https://github.com/nmap/ncrack/releases.atom
+
+netcat-openbsd @ tracker.debian.org news
+  https://tracker.debian.org/pkg/netcat-openbsd/rss 
+
+netdiscover @ github.com releases
+  https://github.com/netdiscover-scanner/netdiscover/releases.atom
+
+nikto @ github.com commits:master
+  https://github.com/sullo/nikto/commits/master.atom
+
+nmap @ seclists.org news
+  https://seclists.org/rss/nmap-announce.rss 
+
+nmap-extra-nse @ github.com commits:master
+  https://github.com/sighook/nmap-extra-nse/commits/master.atom
+
+nuclei-bin @ github.com releases
+  https://github.com/projectdiscovery/nuclei/releases.atom
+
+nvidia @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/nvidia/-/tags?format=atom 
+
+office2hashcat @ github.com commits:master
+  https://github.com/sighook/office2hashcat/commits/master.atom
+
+otpcalc @ gitlab.com tags
+  https://gitlab.com/otpcalc/otpcalc/-/tags?format=atom 
+
+otpcalc @ gitweb.gentoo.org commits:master
+  https://gitweb.gentoo.org/repo/gentoo.git/atom/sys-auth/otpcalc?h=master 
+
+p0f @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/p0f/-/tags?format=atom) 
+
+p5-b-cow @ metacpan.org releases
+  https://metacpan.org/dist/B-COW/releases.rss 
+
+p5-capture-tiny @ metacpan.org releases
+  https://metacpan.org/dist/Capture-Tiny/releases.rss 
+
+p5-cgi @ metacpan.org releases
+  https://metacpan.org/dist/CGI/releases.rss 
+
+p5-clone @ metacpan.org releases
+  https://metacpan.org/dist/Clone/releases.rss 
+
+p5-compress-raw-lzma @ metacpan.org releases
+  https://metacpan.org/dist/Compress-Raw-Lzma/releases.rss 
+
+p5-config-autoconf @ metacpan.org releases
+  https://metacpan.org/dist/Config-AutoConf/releases.rss 
+
+p5-devel-cycle @ metacpan.org releases
+  https://metacpan.org/dist/Devel-Cycle/releases.rss 
+
+p5-digest-hmac @ metacpan.org releases
+  https://metacpan.org/dist/Digest-HMAC/releases.rss 
+
+p5-encode-locale @ metacpan.org releases
+  https://metacpan.org/dist/Encode-Locale/releases.rss 
+
+p5-extutils-helpers @ metacpan.org releases
+  https://metacpan.org/dist/ExtUtils-Helpers/releases.rss 
+
+p5-extutils-installpaths @ metacpan.org releases
+  https://metacpan.org/dist/ExtUtils-InstallPaths/releases.rss 
+
+p5-file-libmagic @ metacpan.org releases
+  https://metacpan.org/dist/File-LibMagic/releases.rss 
+
+p5-file-listing @ metacpan.org releases
+  https://metacpan.org/dist/File-Listing/releases.rss 
+
+p5-file-slurp-tiny @ metacpan.org releases
+  https://metacpan.org/dist/File-Slurp-Tiny/releases.rss 
+
+p5-file-slurper @ metacpan.org releases
+  https://metacpan.org/dist/File-Slurper/releases.rss 
+
+p5-file-type @ metacpan.org releases
+  https://metacpan.org/dist/File-Type/releases.rss 
+
+p5-file-which @ metacpan.org releases
+  https://metacpan.org/dist/File-Which/releases.rss 
+
+p5-font-ttf @ metacpan.org releases
+  https://metacpan.org/dist/Font-TTF/releases.rss 
+
+p5-gd @ metacpan.org releases
+  https://metacpan.org/dist/GD/releases.rss 
+
+p5-gd-graph @ metacpan.org releases
+  https://metacpan.org/dist/GDGraph/releases.rss 
+
+p5-gd-text @ metacpan.org releases
+  https://metacpan.org/dist/GDTextUtil/releases.rss 
+
+p5-getopt-argvfile @ metacpan.org releases
+  https://metacpan.org/dist/Getopt-ArgvFile/releases.rss 
+
+p5-html-form @ metacpan.org releases
+  https://metacpan.org/dist/HTML-Form/releases.rss 
+
+p5-html-parser @ metacpan.org releases
+  https://metacpan.org/dist/HTML-Parser/releases.rss 
+
+p5-html-tagset @ metacpan.org releases
+  https://metacpan.org/dist/HTML-Tagset/releases.rss 
+
+p5-html-tree @ metacpan.org releases
+  https://metacpan.org/dist/HTML-Tree/releases.rss 
+
+p5-http-cookiejar @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-CookieJar/releases.rss 
+
+p5-http-cookies @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Cookies/releases.rss 
+
+p5-http-daemon @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Daemon/releases.rss 
+
+p5-http-date @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Date/releases.rss 
+
+p5-http-message @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Message/releases.rss 
+
+p5-http-negotiate @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Negotiate/releases.rss 
+
+p5-http-response-encoding @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Response-Encoding/releases.rss 
+
+p5-http-server-simple @ metacpan.org releases
+  https://metacpan.org/dist/HTTP-Server-Simple/releases.rss 
+
+p5-image-exiftool @ metacpan.org releases
+  https://exiftool.org/rss.xml 
+
+p5-image-size @ metacpan.org releases
+  https://metacpan.org/dist/Image-Size/releases.rss 
+
+p5-inc-latest @ metacpan.org releases
+  https://metacpan.org/dist/inc-latest/releases.rss 
+
+p5-io-html @ metacpan.org releases
+  https://metacpan.org/dist/IO-HTML/releases.rss 
+
+p5-io-socket-inet6 @ metacpan.org releases
+  https://metacpan.org/dist/IO-Socket-INET6/releases.rss 
+
+p5-io-socket-ssl @ metacpan.org releases
+  https://metacpan.org/dist/IO-Socket-SSL/releases.rss 
+
+p5-json @ metacpan.org releases
+  https://metacpan.org/dist/JSON/releases.rss 
+
+p5-libwww @ metacpan.org releases
+  https://metacpan.org/dist/libwww-perl/releases.rss 
+
+p5-lwp-mediatypes @ metacpan.org releases
+  https://metacpan.org/dist/LWP-MediaTypes/releases.rss 
+
+p5-lwp-protocol-https @ metacpan.org releases
+  https://metacpan.org/dist/LWP-Protocol-https/releases.rss 
+
+p5-mime-base32 @ metacpan.org releases
+  https://metacpan.org/dist/MIME-Base32/releases.rss 
+
+p5-module-build @ metacpan.org releases
+  https://metacpan.org/dist/Module-Build/releases.rss 
+
+p5-module-build-tiny @ metacpan.org releases
+  https://metacpan.org/dist/Module-Build-Tiny/releases.rss 
+
+p5-mozilla-ca @ metacpan.org releases
+  https://metacpan.org/dist/Mozilla-CA/releases.rss 
+
+p5-net-dns @ metacpan.org releases
+  https://metacpan.org/dist/Net-DNS/releases.rss 
+
+p5-net-http @ metacpan.org releases
+  https://metacpan.org/dist/Net-HTTP/releases.rss 
+
+p5-net-pcap @ metacpan.org releases
+  https://metacpan.org/dist/Net-Pcap/releases.rss 
+
+p5-net-ssleay @ metacpan.org releases
+  https://metacpan.org/dist/Net-SSLeay/releases.rss 
+
+p5-padwalker @ metacpan.org releases
+  https://metacpan.org/dist/PadWalker/releases.rss 
+
+p5-path-tiny @ metacpan.org releases
+  https://metacpan.org/dist/Path-Tiny/releases.rss 
+
+p5-pdf-api2 @ metacpan.org releases
+  https://metacpan.org/dist/PDF-API2/releases.rss 
+
+p5-pod-parser @ metacpan.org releases
+  https://metacpan.org/dist/Pod-Parser/releases.rss 
+
+p5-regexp-common @ metacpan.org releases
+  https://metacpan.org/dist/Regexp-Common/releases.rss 
+
+p5-socket6 @ metacpan.org releases
+  https://metacpan.org/dist/Socket6/releases.rss 
+
+p5-string-crc32 @ metacpan.org releases
+  https://metacpan.org/dist/String-CRC32/releases.rss 
+
+p5-sub-uplevel @ metacpan.org releases
+  https://metacpan.org/dist/Sub-Uplevel/releases.rss 
+
+p5-term-readline-gnu @ metacpan.org releases
+  https://metacpan.org/dist/Term-ReadLine-Gnu/releases.rss 
+
+p5-test-deep @ metacpan.org releases
+  https://metacpan.org/dist/Test-Deep/releases.rss 
+
+p5-test-exception @ metacpan.org releases
+  https://metacpan.org/dist/Test-Exception/releases.rss 
+
+p5-test-fatal @ metacpan.org releases
+  https://metacpan.org/dist/Test-Fatal/releases.rss 
+
+p5-test-fork @ metacpan.org releases
+  https://metacpan.org/dist/Test-Fork/releases.rss 
+
+p5-test-memory-cycle @ metacpan.org releases
+  https://metacpan.org/dist/Test-Memory-Cycle/releases.rss 
+
+p5-test-needs @ metacpan.org releases
+  https://metacpan.org/dist/Test-Needs/releases.rss 
+
+p5-test-nowarnings @ metacpan.org releases
+  https://metacpan.org/dist/Test-NoWarnings/releases.rss 
+
+p5-test-output @ metacpan.org releases
+  https://metacpan.org/dist/Test-Output/releases.rss 
+
+p5-test-requiresinternet @ metacpan.org releases
+  https://metacpan.org/dist/Test-RequiresInternet/releases.rss 
+
+p5-test-taint @ metacpan.org releases
+  https://metacpan.org/dist/Test-Taint/releases.rss 
+
+p5-test-warn @ metacpan.org releases
+  https://metacpan.org/dist/Test-Warn/releases.rss 
+
+p5-test-warnings @ metacpan.org releases
+  https://metacpan.org/dist/Test-Warnings/releases.rss 
+
+p5-text-csv @ metacpan.org releases
+  https://metacpan.org/dist/Text-CSV/releases.rss 
+
+p5-timedate @ metacpan.org releases
+  https://metacpan.org/dist/TimeDate/releases.rss 
+
+p5-tree-dag-node @ metacpan.org releases
+  https://metacpan.org/dist/Tree-DAG_Node/releases.rss 
+
+p5-try-tiny @ metacpan.org releases
+  https://metacpan.org/dist/Try-Tiny/releases.rss 
+
+p5-uri @ metacpan.org releases
+  https://metacpan.org/dist/URI/releases.rss 
+
+p5-www-mechanize @ metacpan.org releases
+  https://metacpan.org/dist/WWW-Mechanize/releases.rss 
+
+p5-www-robotrules @ metacpan.org releases
+  https://metacpan.org/dist/WWW-RobotRules/releases.rss 
+
+p5-xml-namespacesupport @ metacpan.org releases
+  https://metacpan.org/dist/XML-NamespaceSupport/releases.rss 
+
+p5-xml-sax @ metacpan.org releases
+  https://metacpan.org/dist/XML-SAX/releases.rss 
+
+p5-xml-sax-base @ metacpan.org releases
+  https://metacpan.org/dist/XML-SAX-Base/releases.rss 
+
+p5-xml-sax-expat @ metacpan.org releases
+  https://metacpan.org/dist/XML-SAX-Expat/releases.rss 
+
+p5-xml-simple @ metacpan.org releases
+  https://metacpan.org/dist/XML-Simple/releases.rss 
+
+p7zip @ sourceforge.net releases
+  https://sourceforge.net/projects/p7zip/rss?path=/p7zip 
+
+padbuster @ github.com commits:master
+  https://github.com/gw0/PadBuster/commits/master.atom
+
+pawn @ github.com commits:main
+  https://github.com/google/pawn/commits/main.atom
+
+pawn @ github.com releases
+  https://github.com/google/pawn/releases.atom
+
+pcalc @ github.com releases
+  https://github.com/vapier/pcalc/releases.atom
+
+pdf2hashcat @ github.com commits:master
+  https://github.com/sighook/pdf2hashcat/commits/master.atom
+
+pdpmake @ github.com tags
+  https://github.com/rmyorston/pdpmake/tags.atom
+
+phoneinfoga-bin @ github.com releases
+  https://github.com/sundowndev/phoneinfoga/releases.atom
+
+php-fcgi/php-gd @ github.com releases
+  https://github.com/php/php-src/releases.atom
+
+pixiewps @ github.com commits:master
+  https://github.com/wiire-a/pixiewps/commits/master.atom
+
+pixiewps @ github.com releases
+  https://github.com/wiire-a/pixiewps/releases.atom
+
+pixload @ github.com commits:master
+  https://github.com/sighook/pixload/commits/master.atom
+
+pkgdiff-lvc @ github.com tags
+  https://github.com/lvc/pkgdiff/tags.atom
+
+pod2mdoc @ github.com package:freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/textproc/pod2mdoc.atom
+
+pod2pdf @ metacpan.org releases
+  https://metacpan.org/dist/pod2pdf/releases.rss 
+
+polipo @ github.com commits:master
+  https://github.com/jech/polipo/commits/master.atom
+
+proxychains-ng @ github.com commits:master
+  https://github.com/rofl0r/proxychains-ng/commits/master.atom
+
+proxychains-ng @ github.com releases
+  https://github.com/rofl0r/proxychains-ng/releases.atom
+
+py3-click @ github.com releases
+  https://github.com/pallets/click/releases.atom
+
+py3-editorconfig @ github.com tags
+  https://github.com/editorconfig/editorconfig-core-py/tags.atom
+
+py3-gitdb @ github.com releases
+  https://github.com/gitpython-developers/gitdb/releases.atom
+
+py3-gitpython @ github.com releases
+  https://github.com/gitpython-developers/gitpython/releases.atom
+
+py3-jsbeautifier @ github.com releases
+  https://github.com/beautifier/js-beautify/releases.atom
+
+py3-pip @ pypi.org releases
+  https://pypi.org/rss/project/pip/releases.xml 
+
+py3-pycparser @ pypi.org releases
+  https://pypi.org/rss/project/pycparser/releases.xml 
+
+py3-smmap @ pypi.org releases
+  https://pypi.org/rss/project/smmap/releases.xml 
+
+pygtk @ pypi.org releases
+  https://pypi.org/rss/project/pygtk/releases.xml 
+
+qbittorrent @ github.com tags
+  https://github.com/qbittorrent/qBittorrent/tags.atom
+
+qrot @ github.com commits:master
+  https://github.com/volgk/qrot/commits/master.atom
+
+qsreplace-bin @ github.com releases
+  https://github.com/tomnomnom/qsreplace/releases.atom
+
+qwt @ sourceforge.net releases
+  https://sourceforge.net/projects/qwt/rss?path=/qwt 
+
+radare2 @ github.com commits:master
+  https://github.com/radareorg/radare2/commits/master.atom
+
+radare2 @ github.com releases
+  https://github.com/radareorg/radare2/releases.atom
+
+rdesktop @ github.com releases
+  https://github.com/rdesktop/rdesktop/releases.atom
+
+reaver-wps-t6x @ github.com commits:master
+  https://github.com/t6x/reaver-wps-fork-t6x/commits/master.atom
+
+recheck-bin @ github.com releases
+  https://github.com/makenowjust-labs/recheck/releases.atom
+
+regexploit @ github.com commits:master
+  https://github.com/doyensec/regexploit/commits/master.atom
+
+regexploit @ github.com releases
+  https://github.com/doyensec/regexploit/releases.atom
+
+ropgadget @ github.com releases
+  https://github.com/JonathanSalwan/ROPgadget/releases.atom
+
+routersploit @ github.com commits:master
+  https://github.com/threat9/routersploit/commits/master.atom
+
+scapy @ github.com commits:master
+  https://github.com/secdev/scapy/commits/master.atom
+
+scapy @ github.com releases
+  https://github.com/secdev/scapy/releases.atom
+
+scc-bin @ github.com releases
+  https://github.com/boyter/scc/releases.atom
+
+shellcheck-bin @ github.com releases
+  https://github.com/koalaman/shellcheck/releases.atom
+
+sherlock @ github.com commits:master
+  https://github.com/sherlock-project/sherlock/commits/master.atom
+
+shuffledns-bin @ github.com releases
+  https://github.com/projectdiscovery/shuffledns/releases.atom
+
+sleuthkit @ github.com commits:develop
+  https://github.com/sleuthkit/sleuthkit/commits/develop.atom
+
+sleuthkit @ github.com releases
+  https://github.com/sleuthkit/sleuthkit/releases.atom
+
+smplayer @ github.com releases
+  https://github.com/smplayer-dev/smplayer/releases.atom
+
+smplayer-buuf-theme @ github.com commits:master
+  https://github.com/robson-66/Buuf-smplayer/commits/master.atom
+
+smplayer-buuf-theme @ github.com releases
+  https://github.com/robson-66/Buuf-smplayer/releases.atom
+
+smplayer-themes @ github.com releases
+  https://github.com/smplayer-dev/smplayer-themes/releases.atom
+
+socialscan @ github.com commits:master
+  https://github.com/iojw/socialscan/commits/master.atom
+
+speexdsp @ gitlab.xiph.org releases
+  https://gitlab.xiph.org/xiph/speexdsp/-/releases.atom 
+
+speexdsp @ gitlab.xiph.org tags
+  https://gitlab.xiph.org/xiph/speexdsp/-/tags?format=atom 
+
+splint @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/splint/-/tags?format=atom 
+
+spoofcheck @ github.com commits:master
+  https://github.com/sighook/spoofcheck/commits/master.atom
+
+spoofcheck @ github.com releases
+  https://github.com/sighook/spoofcheck/releases.atom
+
+sqlitebrowser @ github.com releases
+  https://github.com/sqlitebrowser/sqlitebrowser/releases.atom
+
+sqlmap @ github.com releases
+  https://github.com/sqlmapproject/sqlmap/releases.atom
+
+sslscan @ github.com releases
+  https://github.com/rbsec/sslscan/releases.atom
+
+sslsplit @ github.com commits:develop
+  https://github.com/droe/sslsplit/commits/develop.atom
+
+sslsplit @ github.com releases
+  https://github.com/droe/sslsplit/releases.atom
+
+subfinder-bin @ github.com releases
+  https://github.com/projectdiscovery/subfinder/releases.atom
+
+testdisk @ github.com releases
+  https://github.com/cgsecurity/testdisk/releases.atom
+
+thc-hydra @ github.com commits:master
+  https://github.com/vanhauser-thc/thc-hydra/commits/master.atom
+
+thc-hydra @ github.com releases
+  https://github.com/vanhauser-thc/thc-hydra/releases.atom
+
+thc-ipv6 @ github.com releases
+  https://github.com/vanhauser-thc/thc-ipv6/releases.atom
+
+tor @ github.com releases
+  https://github.com/torproject/tor/releases.atom
+
+torsocks @ gitlab.torproject.org commits:main
+  https://gitlab.torproject.org/tpo/core/torsocks/-/commits/main?format=atom 
+
+torsocks @ gitlab.torproject.org tags
+  https://gitlab.torproject.org/tpo/core/torsocks/-/tags?format=atom 
+
+trufflehog @ github.com releases
+  https://github.com/trufflesecurity/truffleHog/releases.atom
+
+trufflehogregexes @ github.com commits:master
+  https://github.com/dxa4481/truffleHogRegexes/commits/master.atom
+
+uncrustify @ github.com releases
+  https://github.com/uncrustify/uncrustify/releases.atom
+
+unfurl-bin @ github.com releases
+  https://github.com/tomnomnom/unfurl/releases.atom
+
+urlcrazy @ github.com releases
+  https://github.com/urbanadventurer/urlcrazy/releases.atom
+
+waybackurls-bin @ github.com releases
+  https://github.com/tomnomnom/waybackurls/releases.atom
+
+wdiff @ savannah.gnu.org news
+  https://savannah.gnu.org/news/atom.php?group=wdiff 
+
+whatweb @ github.com commits:master
+  https://github.com/urbanadventurer/WhatWeb/commits/master.atom
+
+wine-4.0.x-i386-appimage @ github.com releases
+  https://github.com/mmtrt/WINE_AppImage/releases.atom
+
+wireshark @ github.com releases
+  https://github.com/wireshark/wireshark/releases.atom
+
+wmctrl @ github.com commits:master
+  https://github.com/saravanabalagi/wmctrl/commits/master.atom
+
+wpscan @ github.com commits:master
+  https://github.com/wpscanteam/wpscan/commits/master.atom
+
+wpscan @ github.com releases
+  https://github.com/wpscanteam/wpscan/releases.atom
+
+xxhash @ github.com commits:dev
+  https://github.com/Cyan4973/xxHash/commits/dev.atom
+
+xxhash @ github.com releases
+  https://github.com/Cyan4973/xxHash/releases.atom
+
+yersinia @ commits:master
+  https://github.com/tomac/yersinia/commits/master.atom
+
+yersinia @ releases
+  https://github.com/tomac/yersinia/releases.atom
+
+zaproxy-bin @ github.com commits:main
+  https://github.com/zaproxy/zaproxy/commits/main.atom
+
+zaproxy-bin @ github.com releases
+  https://github.com/zaproxy/zaproxy/releases.atom

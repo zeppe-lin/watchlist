@@ -1,0 +1,576 @@
+alsa-firmware @ github.com tags
+  https://github.com/alsa-project/alsa-firmware/tags.atom
+
+alsa-oss @ github.com tags
+  https://github.com/alsa-project/alsa-oss/tags.atom
+
+alsa-plugins @ github.com tags
+  https://github.com/alsa-project/alsa-plugins/tags.atom
+
+android-file-transfer @ github.com commits
+  https://github.com/whoozle/android-file-transfer-linux/commits/master.atom
+
+apulse @ github.com commits:master
+  https://github.com/i-rinat/apulse/commits/master.atom
+
+apulse @ github.com releases
+  https://github.com/i-rinat/apulse/releases.atom
+
+bluealsa @ github.com releases
+  https://github.com/arkq/bluez-alsa/releases.atom
+
+bluecurve-gtk-theme/bluecurve-icon-theme @ github.com commits
+  https://github.com/neeeeow/Bluecurve/commits/master.atom
+
+bluez @ github.com tags
+  https://github.com/bluez/bluez/tags.atom
+
+btop @ github.com commits
+  https://github.com/aristocratos/btop/commits/main.atom
+
+btop @ github.com releases
+  https://github.com/aristocratos/btop/releases.atom
+
+buuf-icon-theme @ github.com commits
+  https://github.com/robson-66/Buuf/commits/master.atom
+
+cdrtools @ sourceforge.net releases
+  https://sourceforge.net/projects/cdrtools/rss?path=/ 
+
+chrpath @ codeberg.org tags
+  https://codeberg.org/pere/chrpath/tags.rss 
+
+chrpath @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/chrpath/-/tags?format=atom 
+
+crengine-ng @ gitlab.com tags
+  https://gitlab.com/coolreader-ng/crengine-ng/-/tags?format=atom 
+
+crqt-ng @ gitlab.com tags
+  https://gitlab.com/coolreader-ng/crqt-ng/-/tags?format=atom 
+
+dapper @ github.com commits
+  https://github.com/jjk-jacky/dapper/commits/master.atom
+
+dav1d @ code.videolan.org tags
+  https://code.videolan.org/videolan/dav1d/-/tags?format=atom 
+
+dbus @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/dbus/dbus/-/tags?format=atom 
+
+dbus-glib @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/dbus/dbus-glib/-/tags?format=atom 
+
+desktop-file-utils @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/xdg/desktop-file-utils/-/tags?format=atom 
+
+djvulibre @ sourceforge.net news
+  https://sourceforge.net/p/djvu/djvulibre-git/feed 
+
+djvulibre @ sourceforge.net releases
+  https://sourceforge.net/projects/djvu/rss?path=/DjVuLibre 
+
+dragon-drop @ github.com releases
+  https://github.com/mwh/dragon/releases.atom
+
+dwm @ github.com commits
+  #https://github.com/zeppe-lin/dwm/commits/master.atom
+
+dwmblocks @ github.com commits
+  #https://github.com/zeppe-lin/dwmblocks/commits/master.atom
+
+fbreader @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/fbreader/-/tags?format=atom 
+
+fdk-aac @ sourceforge.net releases
+  https://sourceforge.net/projects/opencore-amr/rss?path=/fdk-aac 
+
+feh @ github.com releases
+  https://github.com/derf/feh/releases.atom
+
+ffmpeg @ github.com releases
+  https://github.com/FFmpeg/FFmpeg/releases.atom
+
+ffmpegthumbnailer @ github.com releases
+  https://github.com/dirkvdb/ffmpegthumbnailer/releases.atom
+
+ffnvcodec-headers @ github.com releases
+  https://github.com/FFmpeg/nv-codec-headers/releases.atom
+
+firefox-bin @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/firefox/-/tags?format=atom 
+
+firefox-foxyproxy-bin @ github.com releases
+  https://github.com/foxyproxy/firefox-extension/releases.atom
+
+firefox-ublock-bin @ github.com releases
+  https://github.com/gorhill/uBlock/releases.atom
+
+flac @ gitlab.xiph.org tags
+  https://gitlab.xiph.org/xiph/flac/-/tags?format=atom 
+
+giflib @ sourceforge.net releases
+  https://sourceforge.net/projects/giflib/rss?path=/ 
+
+girara @ github.com tags
+  https://github.com/pwmt/girara/tags.atom
+
+gpgme @ github.com releases
+  https://github.com/gpg/gpgme/releases.atom
+
+gpicview @ github.com tags
+  https://github.com/lxde/gpicview/tags.atom
+
+grabc @ github.com releases
+  https://github.com/muquit/grabc/releases.atom
+
+greymond-gtk-theme @ github.com commits
+  https://github.com/parhelion22/xfce-theme-greymond/commits/main.atom
+
+gsm @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gsm/-/tags?format=atom 
+
+icon-naming-utils @ salsa.debian.org tags
+  https://salsa.debian.org/debian/icon-naming-utils/-/tags?format=atom 
+
+imagemagick @ github.com releases
+  https://github.com/ImageMagick/ImageMagick/releases.atom
+
+imlib2 @ sourceforge.net releases
+  https://sourceforge.net/projects/enlightenment/rss?path=/imlib2-src 
+
+inxi @ codeberg.org tags
+  https://codeberg.org/smxi/inxi/tags.rss) 
+
+irssi @ github.com releases
+  https://github.com/irssi/irssi/releases.atom
+
+json-glib @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/json-glib/-/tags?format=atom 
+
+jukebox @ github.com commits:master
+  https://github.com/jukebox-sound/jukebox/commits/master.atom
+
+krb5 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/krb5/-/tags?format=atom 
+
+ladspa @ gitlab.archlinux.org commits
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ladspa/-/commits/main?format=atom 
+
+lame @ sourceforge.net releases
+  https://sourceforge.net/projects/lame/rss?path=/lame 
+
+leafpad @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/leafpad/-/tags?format=atom 
+
+libass @ github.com releases
+  https://github.com/libass/libass/releases.atom
+
+libcroco @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/Archive/libcroco/-/tags?format=atom 
+
+libexif @ github.com releases
+  https://github.com/libexif/libexif/releases.atom
+
+libgd @ github.com releases
+  https://github.com/libgd/libgd/releases.atom
+
+libical @ github.com releases
+  https://github.com/libical/libical/releases.atom
+
+libid3tag @ github.com releases
+  https://codeberg.org/tenacityteam/libid3tag/tags.rss 
+
+libldac @ github.com releases
+  https://github.com/EHfive/ldacBT/releases.atom
+
+libmad @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libmad/-/tags?format=atom 
+
+libmtp @ sourceforge.net releases
+  https://sourceforge.net/projects/libmtp/rss?path=/libmtp 
+
+libnotify @ gitlab.gnome.org tags
+  https://gitlab.gnome.org/GNOME/libnotify/-/tags?format=atom 
+
+libogg @ github.com releases
+  https://github.com/xiph/ogg/releases.atom
+
+libplacebo @ github.com releases
+  https://github.com/haasn/libplacebo/releases.atom
+
+libptytty @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libptytty/-/tags?format=atom 
+
+libseccomp @ github.com releases
+  https://github.com/seccomp/libseccomp/releases.atom
+
+libsndfile @ github.com releases
+  https://github.com/libsndfile/libsndfile/releases.atom
+
+libsodium @ github.com tags
+  https://github.com/jedisct1/libsodium/tags.atom
+
+libtheora @ gitlab.xiph.org tags
+  https://gitlab.xiph.org/xiph/theora/-/tags?format=atom 
+
+libunibreak @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libunibreak/-/tags?format=atom 
+
+libva-intel-driver @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libva-intel-driver/-/tags?format=atom 
+
+libva-vdpau-driver @ cgit.freedesktop.org commits
+  https://cgit.freedesktop.org/vaapi/vdpau-driver/atom 
+
+libvdpau-va-gl @ github.com releases
+  https://github.com/i-rinat/libvdpau-va-gl/releases.atom
+
+libvorbis @ gitlab.xiph.org tags
+  https://gitlab.xiph.org/xiph/vorbis/-/tags?format=atom 
+
+libwebp @ github.com tags
+  https://github.com/webmproject/libwebp/tags.atom
+
+lsw @ github.com commits:master
+  #https://github.com/zeppe-lin/lsw/commits/master.atom
+
+lxappearance @ sourceforge.net releases
+  https://sourceforge.net/projects/lxde/rss?path=/LXAppearance 
+
+lxinput @ github.com tags
+  https://github.com/lxde/lxinput/tags.atom
+
+lxrandr @ github.com tags
+  https://github.com/lxde/lxrandr/tags.atom
+
+lxtask @ github.com tags
+  https://github.com/lxde/lxtask/tags.atom
+
+lynx @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/lynx/-/tags?format=atom 
+
+mac @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mac/-/tags?format=atom 
+
+mint-gtk-theme @ github.com releases
+  https://github.com/linuxmint/mint-themes/releases.atom
+
+moc @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/moc/-/tags?format=atom 
+
+mpg123 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mpg123/-/tags?format=atom 
+
+mpg123 @ sourceforge.net releases
+  https://sourceforge.net/projects/mpg123/rss?path=/mpg123 
+
+mpv @ github.com releases
+  https://github.com/mpv-player/mpv/releases.atom
+
+nspr @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/nspr/-/tags?format=atom 
+
+nss @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/nss/-/tags?format=atom 
+
+nsxiv @ github.com tags
+  https://github.com/nsxiv/nsxiv/tags.atom
+
+oath-toolkit @ gitlab.com tags
+  https://gitlab.com/oath-toolkit/oath-toolkit/-/tags?format=atom 
+
+opus @ gitlab.xiph.org tags
+  https://gitlab.xiph.org/xiph/opus/-/tags?format=atom 
+
+p5-cairo @ metacpan.org releases
+  https://metacpan.org/dist/Cairo/releases.rss 
+
+p5-extutils-config @ metacpan.org releases
+  https://metacpan.org/dist/ExtUtils-Config/releases.rss 
+
+p5-extutils-depends @ metacpan.org releases
+  https://metacpan.org/dist/ExtUtils-Depends/releases.rss 
+
+p5-extutils-pkgconfig @ metacpan.org releases
+  https://metacpan.org/dist/ExtUtils-PkgConfig/releases.rss 
+
+p5-glib @ metacpan.org releases
+  https://metacpan.org/dist/Glib/releases.rss 
+
+p5-gtk2 @ metacpan.org releases
+  https://metacpan.org/dist/Gtk2/releases.rss 
+
+p5-net-dbus @ metacpan.org releases
+  https://metacpan.org/dist/Net-DBus/releases.rss 
+
+p5-pango @ metacpan.org releases
+  https://metacpan.org/dist/Pango/releases.rss 
+
+p5-xml-twig @ metacpan.org releases
+  https://metacpan.org/dist/XML-Twig/releases.rss 
+
+palemoon @ repo.palemoon.org tags
+  https://repo.palemoon.org/MoonchildProductions/Pale-Moon/tags.rss 
+
+palemoon-upx @ repo.palemoon.org tags
+  https://repo.palemoon.org/MoonchildProductions/UXP/tags.rss 
+
+papirus-icon-theme @ github.com releases
+  https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/releases.atom
+
+password-store @ github.com commits:master
+  https://github.com/zx2c4/password-store/commits/master.atom
+
+password-store @ github.com releases
+  https://github.com/zx2c4/password-store/releases.atom
+
+password-store-otp @ github.com releases
+  https://github.com/tadfisher/pass-otp/releases.atom
+
+pick @ github.com releases
+  https://github.com/mptre/pick/releases.atom
+
+poppler @ gitlab.freedesktop.org tags
+  https://gitlab.freedesktop.org/poppler/poppler/-/tags?format=atom 
+
+py3-glad @ pypi.org feeds
+  https://pypi.org/rss/project/glad2/releases.xml 
+
+py3-jinja2 @ pypi.org feeds
+  https://pypi.org/rss/project/jinja2/releases.xml 
+
+qemu @ github.com releases
+  https://github.com/qemu/qemu/releases.atom
+
+qemuconf @ github.com commits:master
+  https://github.com/zeppe-lin/qemuconf/commits/master.atom
+
+qrencode @ github.com releases
+  https://github.com/fukuchi/libqrencode/releases.atom
+
+qt5 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/qt5-base/-/tags?format=atom 
+
+qt5-styleplugins @ github.com commits:master
+  https://github.com/qt/qtstyleplugins/commits/master.atom
+
+qt5-styleplugins @ github.com releases
+  https://github.com/qt/qtstyleplugins/releases.atom
+
+qt5ct @ sourceforge.net releases
+  https://sourceforge.net/projects/qt5ct/rss?path=/ 
+
+ratpoison @ git.savannah.nongnu.org commits
+  https://git.savannah.nongnu.org/cgit/ratpoison.git/atom 
+
+recordmydesktop @ github.com releases
+  https://github.com/Enselic/recordmydesktop/releases.atom
+
+retrosmart-cursor-theme @ github.com commits:master
+  https://github.com/mdomlop/retrosmart-x11-cursors/commits/master.atom
+
+sbc @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/sbc/-/tags?format=atom 
+
+scrot @ github.com releases
+  https://github.com/resurrecting-open-source-projects/scrot/releases.atom
+
+shntool @ salsa.debian.org tags
+  https://salsa.debian.org/debian/shntool/-/tags?format=atom 
+
+snownews @ sourceforge.net commits:master
+  https://sourceforge.net/p/snownews/code/feed/ 
+
+snownews @ sourceforge.net releases
+  https://sourceforge.net/projects/snownews/rss?path=/ 
+
+ssr @ github.com tags
+  https://github.com/MaartenBaert/ssr/tags.atom
+
+ssvnc @ tracker.debian.org news
+  https://tracker.debian.org/pkg/ssvnc/rss 
+
+st @ github.com commits:master
+  #https://github.com/zeppe-lin/st/commits/master.atom
+
+stunnel @ github.com releases
+  https://github.com/mtrojnar/stunnel/releases.atom
+
+sylpheed @ tracker.debian.org
+  https://tracker.debian.org/pkg/sylpheed/rss 
+
+taglib @ github.com releases
+  https://github.com/taglib/taglib/releases.atom
+
+tagutil @ github.com releases
+  https://github.com/kaworu/tagutil/releases.atom
+
+toxcore @ github.com commits:master
+  https://github.com/TokTok/c-toxcore/commits/master.atom
+
+toxcore @ github.com releases
+  https://github.com/TokTok/c-toxcore/releases.atom
+
+toxic @ github.com commits:master
+  https://github.com/JFreegman/toxic/commits/master.atom
+
+toxic @ github.com releases
+  https://github.com/JFreegman/toxic/releases.atom
+
+trinity-extra-theme @ github.com commits:master
+  https://github.com/trinity-theme/trinity-extra-theme/commits/master.atom
+
+trinity-gtk-theme @ github.com commits:master
+  https://github.com/trinity-theme/trinity-gtk-theme/commits/master.atom
+
+trinity-icon-theme @ github.com commits:master
+  https://github.com/trinity-theme/trinity-icon-theme/commits/master.atom
+
+udevil @ github.com tags
+  https://github.com/IgnorantGuru/udevil/tags.atom
+
+unrar @ tracker.debian.org
+  https://tracker.debian.org/pkg/unrar-nonfree/rss 
+
+urlview @ salsa.debian.org tags
+  https://salsa.debian.org/debian/urlview/-/tags?format=atom 
+
+utf8cpp @ github.com releases
+  https://github.com/nemtrif/utfcpp/releases.atom
+
+vifm @ github.com releases
+  https://github.com/vifm/vifm/releases.atom
+
+vifm-colors @ github.com releases
+  https://github.com/vifm/vifm-colors/releases.atom
+
+wavpack @ github.com releases
+  https://github.com/dbry/WavPack/releases.atom
+
+wgetpaste @ github.com releases
+  https://github.com/zlin/wgetpaste/releases.atom
+
+when @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/when/-/tags?format=atom 
+
+win3x-gtk-theme @ github.com commits:master
+  #https://github.com/zeppe-lin/win3x-gtk-theme/commits/master.atom
+
+x264 @ code.videolan.org commits:master
+  https://code.videolan.org/videolan/x264/-/commits/master?format=atom 
+
+x264 @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/x264/-/tags?format=atom 
+
+xbindkeys @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xbindkeys/-/tags?format=atom 
+
+xcdroast @ sourceforge.net releases
+  https://sourceforge.net/projects/xcdroast/rss?path=/ 
+
+xdg-utils @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xdg-utils/-/tags?format=atom 
+
+xmlsec @ github.com releases
+  https://github.com/lsh123/xmlsec/releases.atom
+
+xpdf @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xpdf/-/tags?format=atom 
+
+yt-dlp @ github.com releases
+  https://github.com/yt-dlp/yt-dlp/releases.atom
+
+zathura @ github.com tags
+  https://github.com/pwmt/zathura/tags.atom
+
+zathura-djvu @ github.com tags
+  https://github.com/pwmt/zathura-djvu/tags.atom
+
+zathura-pdf-poppler @ github.com tags
+  https://github.com/pwmt/zathura-pdf-poppler/tags.atom
+
+zbar @ github.com releases
+  https://github.com/mchehab/zbar/releases.atom
+
+zzzfm @ gitlab.com commits
+  https://gitlab.com/skidoo/zzzfm/-/commits/master?format=atom 
+
+  
+
+  ######################################################################
+
+
+  @wmaker
+
+  ######################################################################
+
+  
+
+wmaker @ github.com tags
+  https://github.com/window-maker/wmaker/tags.atom
+
+wmaker-dockapps @ github.com tags
+  https://github.com/window-maker/dockapps/tags.atom
+
+  
+
+  ######################################################################
+
+
+  @games
+
+  ######################################################################
+
+  
+
+dgen-sdl @ sourceforge.net releases
+  https://sourceforge.net/projects/dgen/rss?path=/dgen 
+
+freedoom @ github.com releases
+  https://github.com/freedoom/freedoom/releases.atom
+
+gzdoom @ github.com commits:master
+  https://github.com/ZDoom/gzdoom/commits/master.atom
+
+gzdoom @ github.com releases
+  https://github.com/ZDoom/gzdoom/releases.atom
+
+libcddb @ sourceforge.net releases
+  https://sourceforge.net/projects/libcddb/rss?path=/libcddb 
+
+libcdio @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libcdio/-/tags?format=atom 
+
+libsdl2 @ github.com releases
+  https://github.com/libsdl-org/SDL/releases.atom
+
+libvpx @ github.com tags
+  https://github.com/webmproject/libvpx/tags.atom
+
+openal @ github.com releases
+  https://github.com/kcat/openal-soft/releases.atom
+
+openarena-bin @ salsa.debian.org
+  https://salsa.debian.org/games-team/openarena/-/tags?format=atom 
+
+pcsxr @ github.com tags
+  https://github.com/frealgagu/PCSX-Reloaded/tags.atom
+
+scanmem @ github.com commits
+  https://github.com/scanmem/scanmem/commits/main.atom
+
+scanmem @ github.com releases
+  https://github.com/scanmem/scanmem/releases.atom
+
+snes9x @ github.com releases
+  https://github.com/snes9xgit/snes9x/releases.atom
+
+urbanterror-bin @ github.com/freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/games/urbanterror-data.atom
+
+zmusic @ github.com commits:master
+  https://github.com/ZDoom/ZMusic/commits/master.atom
+
+zmusic @ github.com releases
+  https://github.com/ZDoom/ZMusic/releases.atom

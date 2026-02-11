@@ -1,0 +1,5 @@
+wmaker @ github.com tags
+  https://github.com/window-maker/wmaker/tags.atom
+
+wmaker-dockapps @ github.com tags
+  https://github.com/window-maker/dockapps/tags.atom

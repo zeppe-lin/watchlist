@@ -1,0 +1,50 @@
+dgen-sdl @ sourceforge.net releases
+  https://sourceforge.net/projects/dgen/rss?path=/dgen 
+
+freedoom @ github.com releases
+  https://github.com/freedoom/freedoom/releases.atom
+
+gzdoom @ github.com commits:master
+  https://github.com/ZDoom/gzdoom/commits/master.atom
+
+gzdoom @ github.com releases
+  https://github.com/ZDoom/gzdoom/releases.atom
+
+libcddb @ sourceforge.net releases
+  https://sourceforge.net/projects/libcddb/rss?path=/libcddb 
+
+libcdio @ gitlab.archlinux.org tags
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libcdio/-/tags?format=atom 
+
+libsdl2 @ github.com releases
+  https://github.com/libsdl-org/SDL/releases.atom
+
+libvpx @ github.com tags
+  https://github.com/webmproject/libvpx/tags.atom
+
+openal @ github.com releases
+  https://github.com/kcat/openal-soft/releases.atom
+
+openarena-bin @ salsa.debian.org
+  https://salsa.debian.org/games-team/openarena/-/tags?format=atom 
+
+pcsxr @ github.com tags
+  https://github.com/frealgagu/PCSX-Reloaded/tags.atom
+
+scanmem @ github.com commits
+  https://github.com/scanmem/scanmem/commits/main.atom
+
+scanmem @ github.com releases
+  https://github.com/scanmem/scanmem/releases.atom
+
+snes9x @ github.com releases
+  https://github.com/snes9xgit/snes9x/releases.atom
+
+urbanterror-bin @ github.com/freebsd commits
+  https://github.com/freebsd/freebsd-ports/commits/main/games/urbanterror-data.atom
+
+zmusic @ github.com commits:master
+  https://github.com/ZDoom/ZMusic/commits/master.atom
+
+zmusic @ github.com releases
+  https://github.com/ZDoom/ZMusic/releases.atom
