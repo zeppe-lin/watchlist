@@ -121,9 +121,6 @@ gnutls @ github.com releases
 grub2/grub2-efi @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/tags?format=atom 
 
-handbook @ github.com commits
-  #https://github.com/zeppe-lin/handbook/commits/master.atom
-
 hddtemp @ github.com commits
   https://github.com/vitlav/hddtemp/commits/master.atom
 

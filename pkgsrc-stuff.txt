@@ -389,7 +389,7 @@ otpcalc @ gitweb.gentoo.org commits:master
   https://gitweb.gentoo.org/repo/gentoo.git/atom/sys-auth/otpcalc?h=master 
 
 p0f @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/p0f/-/tags?format=atom) 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/p0f/-/tags?format=atom
 
 p5-b-cow @ metacpan.org releases
   https://metacpan.org/dist/B-COW/releases.rss 

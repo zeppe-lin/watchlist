@@ -82,9 +82,6 @@ mesa @ gitlab.freedesktop.org tags
 mtdev @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/mtdev/-/tags?format=atom 
 
-ninja @ github.com releases
-  #https://github.com/ninja-build/ninja/releases.atom
-
 pango @ gitlab.gnome.org tags
   https://gitlab.gnome.org/GNOME/pango/-/tags?format=atom 
 
@@ -162,9 +159,6 @@ xdialog @ gitlab.archlinux.org tags
 
 xdotool @ github.com releases
   https://github.com/jordansissel/xdotool/releases.atom
-
-xkbswitch @ github.com commits:master
-  #https://github.com/zeppe-lin/xkbswitch/commits/master.atom
 
 xkeyboard-config @ gitlab.freedesktop.org tags
   https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/tags?format=atom 
