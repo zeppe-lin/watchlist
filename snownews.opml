@@ -538,7 +538,7 @@
     <outline text="inxi @ codeberg.org tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://codeberg.org/smxi/inxi/tags.rss" category="desktop"/>
     <outline text="irssi @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/irssi/irssi/releases.atom" category="desktop"/>
     <outline text="json-glib @ gitlab.gnome.org tags" xmlUrl="https://gitlab.gnome.org/GNOME/json-glib/-/tags?format=atom" category="desktop"/>
-    <outline text="jukebox @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/jukebox/commits/master.atom" category="desktop"/>
+    <outline text="jukebox @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/jukebox-sound/jukebox/commits/master.atom" category="desktop"/>
     <outline text="krb5 @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/krb5/-/tags?format=atom" category="desktop"/>
     <outline text="ladspa @ gitlab.archlinux.org commits" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/ladspa/-/commits/main?format=atom" category="desktop"/>
     <outline text="lame @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/lame/rss?path=/lame" category="desktop"/>
@@ -626,9 +626,9 @@
     <outline text="toxcore @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/TokTok/c-toxcore/releases.atom" category="desktop"/>
     <outline text="toxic @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/JFreegman/toxic/commits/master.atom" category="desktop"/>
     <outline text="toxic @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/JFreegman/toxic/releases.atom" category="desktop"/>
-    <outline text="trinity-extra-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/trinity-extra-theme/commits/master.atom" category="desktop"/>
-    <outline text="trinity-gtk-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/trinity-gtk-theme/commits/master.atom" category="desktop"/>
-    <outline text="trinity-icon-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/trinity-icon-theme/commits/master.atom" category="desktop"/>
+    <outline text="trinity-extra-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/trinity-theme/trinity-extra-theme/commits/master.atom" category="desktop"/>
+    <outline text="trinity-gtk-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/trinity-theme/trinity-gtk-theme/commits/master.atom" category="desktop"/>
+    <outline text="trinity-icon-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/trinity-theme/trinity-icon-theme/commits/master.atom" category="desktop"/>
     <outline text="udevil @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/IgnorantGuru/udevil/tags.atom" category="desktop"/>
     <outline text="unrar @ tracker.debian.org" xmlUrl="https://tracker.debian.org/pkg/unrar-nonfree/rss" category="desktop"/>
     <outline text="urlview @ salsa.debian.org tags" xmlUrl="https://salsa.debian.org/debian/urlview/-/tags?format=atom" category="desktop"/>
