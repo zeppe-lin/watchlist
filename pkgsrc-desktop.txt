@@ -124,6 +124,9 @@ greymond-gtk-theme @ github.com commits
 gsm @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/gsm/-/tags?format=atom
 
+icewm @ github.com releases
+  https://github.com/ice-wm/icewm/releases.atom
+
 icon-naming-utils @ salsa.debian.org tags
   https://salsa.debian.org/debian/icon-naming-utils/-/tags?format=atom
 
@@ -495,6 +498,3 @@ zbar @ github.com releases
 
 zzzfm @ gitlab.com commits
   https://gitlab.com/skidoo/zzzfm/-/commits/master?format=atom
-
-icewm @ github.com releases
-  https://github.com/ice-wm/icewm/releases.atom
