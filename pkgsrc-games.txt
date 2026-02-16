@@ -1,5 +1,5 @@
 dgen-sdl @ sourceforge.net releases
-  https://sourceforge.net/projects/dgen/rss?path=/dgen 
+  https://sourceforge.net/projects/dgen/rss?path=/dgen
 
 freedoom @ github.com releases
   https://github.com/freedoom/freedoom/releases.atom
@@ -11,10 +11,10 @@ gzdoom @ github.com releases
   https://github.com/ZDoom/gzdoom/releases.atom
 
 libcddb @ sourceforge.net releases
-  https://sourceforge.net/projects/libcddb/rss?path=/libcddb 
+  https://sourceforge.net/projects/libcddb/rss?path=/libcddb
 
 libcdio @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libcdio/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libcdio/-/tags?format=atom
 
 libsdl2 @ github.com releases
   https://github.com/libsdl-org/SDL/releases.atom
@@ -26,7 +26,7 @@ openal @ github.com releases
   https://github.com/kcat/openal-soft/releases.atom
 
 openarena-bin @ salsa.debian.org
-  https://salsa.debian.org/games-team/openarena/-/tags?format=atom 
+  https://salsa.debian.org/games-team/openarena/-/tags?format=atom
 
 pcsxr @ github.com tags
   https://github.com/frealgagu/PCSX-Reloaded/tags.atom

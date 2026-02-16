@@ -15,6 +15,7 @@ ktsuss
 librsvg-compat
 libwnck
 libxcrypt2.4
+libxml2-2.13
 mdk3
 moc-eqsets
 newsboat213

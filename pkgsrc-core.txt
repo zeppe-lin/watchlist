@@ -1,47 +1,47 @@
 acl @ git.savannah.nongnu.org commits:master releases
-  https://git.savannah.nongnu.org/cgit/acl.git/atom 
+  https://git.savannah.nongnu.org/cgit/acl.git/atom
 
 acl @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/acl/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/acl/-/tags?format=atom
 
 asciidoctor @ github.com releases
   https://github.com/asciidoctor/asciidoctor/releases.atom
 
 asciidoctor @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/asciidoctor/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/asciidoctor/-/tags?format=atom
 
 attr @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/attr.git/atom 
+  https://git.savannah.nongnu.org/cgit/attr.git/atom
 
 attr @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/attr/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/attr/-/tags?format=atom
 
 autoconf @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/autoconf.git/atom 
+  https://git.savannah.nongnu.org/cgit/autoconf.git/atom
 
 autoconf @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/autoconf/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/autoconf/-/tags?format=atom
 
 automake @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/automake.git/atom 
+  https://git.savannah.nongnu.org/cgit/automake.git/atom
 
 automake @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/automake/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/automake/-/tags?format=atom
 
 bash @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/bash.git/atom 
+  https://git.savannah.nongnu.org/cgit/bash.git/atom
 
 bash @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/bash/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/bash/-/tags?format=atom
 
 bash-completion @ github.com releases
   https://github.com/scop/bash-completion/releases.atom
 
 bc @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/bc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/bc/-/tags?format=atom
 
 binutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/binutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/binutils/-/tags?format=atom
 
 binutils/gdb @ github.com unofficial releases
   https://github.com/bminor/binutils-gdb/releases.atom
@@ -50,10 +50,10 @@ bison @ github.com releases
   https://github.com/akimd/bison/releases.atom
 
 bzip2 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/bzip2/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/bzip2/-/tags?format=atom
 
 ca-certificates @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/ca-certificates/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ca-certificates/-/tags?format=atom
 
 cmake @ github.com releases
   https://github.com/Kitware/CMake/releases.atom
@@ -62,16 +62,16 @@ coreutils @ github.com tags
   https://github.com/coreutils/coreutils/tags.atom
 
 coreutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/coreutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/coreutils/-/tags?format=atom
 
 cpio @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/cpio/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/cpio/-/tags?format=atom
 
 curl @ github.com releases
   https://github.com/curl/curl/releases.atom
 
 dash @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/dash/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dash/-/tags?format=atom
 
 db @ github.com releases
   https://github.com/berkeleydb/libdb/releases.atom
@@ -80,10 +80,10 @@ dcron @ github.com tags
   https://github.com/ptchinster/dcron/tags.atom
 
 diffutils @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/diffutils.git/atom 
+  https://git.savannah.nongnu.org/cgit/diffutils.git/atom
 
 diffutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/diffutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/diffutils/-/tags?format=atom
 
 dumb-runtime-dir @ github.com commits:trunk
   https://github.com/ifreund/dumb_runtime_dir/commits/trunk.atom
@@ -92,10 +92,10 @@ dumb-runtime-dir @ github.com releases
   https://github.com/ifreund/dumb_runtime_dir/releases.atom
 
 ed @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/ed/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ed/-/tags?format=atom
 
 elfutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/elfutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/elfutils/-/tags?format=atom
 
 eudev @ github.com releases
   https://github.com/eudev-project/eudev/releases.atom
@@ -104,40 +104,40 @@ expat @ github.com releases
   https://github.com/libexpat/libexpat/releases.atom
 
 fakeroot @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/fakeroot/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/fakeroot/-/tags?format=atom
 
 fakeroot @ tracker.debian.org news
-  https://tracker.debian.org/pkg/fakeroot/rss 
+  https://tracker.debian.org/pkg/fakeroot/rss
 
 file @ github.com releases
   https://github.com/file/file/releases.atom
 
 findutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/findutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/findutils/-/tags?format=atom
 
 flex @ github.com releases
   https://github.com/westes/flex/releases.atom
 
 flex @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/flex/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/flex/-/tags?format=atom
 
 gawk @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/gawk.git/atom 
+  https://git.savannah.nongnu.org/cgit/gawk.git/atom
 
 gawk @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gawk/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gawk/-/tags?format=atom
 
 gcc @ github.com unofficial releases
   https://github.com/gcc-mirror/gcc/releases.atom
 
 gcc @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gcc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gcc/-/tags?format=atom
 
 gdbm @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/gdbm.git/atom 
+  https://git.savannah.nongnu.org/cgit/gdbm.git/atom
 
 gdbm @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gdbm/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gdbm/-/tags?format=atom
 
 gettext-tiny @ github.com releases
   https://github.com/sabotage-linux/gettext-tiny/releases.atom
@@ -146,55 +146,55 @@ git @ github.com releases
   https://github.com/git/git/releases.atom
 
 git @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/git/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/git/-/tags?format=atom
 
 glibc/glibc-32 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/glibc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/glibc/-/tags?format=atom
 
 gperf @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/gperf.git/atom 
+  https://git.savannah.nongnu.org/cgit/gperf.git/atom
 
 gperf @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gperf/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gperf/-/tags?format=atom
 
 grep @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/grep/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/grep/-/tags?format=atom
 
 groff @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/groff/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/groff/-/tags?format=atom
 
 gzip @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/gzip.git/atom 
+  https://git.savannah.nongnu.org/cgit/gzip.git/atom
 
 gzip @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gzip/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gzip/-/tags?format=atom
 
 hdparm @ sourceforge.net releases
-  https://sourceforge.net/projects/hdparm/rss?path=/hdparm 
+  https://sourceforge.net/projects/hdparm/rss?path=/hdparm
 
 iana-etc @ gitlab.archlinux.org tag
-  https://gitlab.archlinux.org/archlinux/packaging/packages/iana-etc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/iana-etc/-/tags?format=atom
 
 inetutils @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/inetutils.git/atom 
+  https://git.savannah.nongnu.org/cgit/inetutils.git/atom
 
 inetutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/inetutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/inetutils/-/tags?format=atom
 
 intltool @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/intltool/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/intltool/-/tags?format=atom
 
 iproute2 @ github.com tags
   https://github.com/iproute2/iproute2/tags.atom
 
 iproute2 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/iproute2/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/iproute2/-/tags?format=atom
 
 iptables @ git.netfilter.org commits
-  https://git.netfilter.org/iptables/atom 
+  https://git.netfilter.org/iptables/atom
 
 iptables @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/iptables/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/iptables/-/tags?format=atom
 
 kbd @ github.com releases
   https://github.com/legionus/kbd/releases.atom
@@ -209,82 +209,82 @@ libarchive @ github.com releases
   https://github.com/libarchive/libarchive/releases.atom
 
 libbsd @ gitlab.freedesktop.org tags
-  https://gitlab.freedesktop.org/libbsd/libbsd/-/tags?format=atom 
+  https://gitlab.freedesktop.org/libbsd/libbsd/-/tags?format=atom
 
 libcap @ git.kernel.org commits releases
-  https://git.kernel.org/pub/scm/libs/libcap/libcap.git/atom/?h=master 
+  https://git.kernel.org/pub/scm/libs/libcap/libcap.git/atom/?h=master
 
 libcap @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libcap/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libcap/-/tags?format=atom
 
 libcap-ng @ github.com releases
   https://github.com/stevegrubb/libcap-ng/releases.atom
 
 libdevmapper/lvm2 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/lvm2/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/lvm2/-/tags?format=atom
 
 libffi @ github.com releases
   https://github.com/libffi/libffi/releases.atom
 
 libffi @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libffi/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libffi/-/tags?format=atom
 
 libgmp @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/gmp/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/gmp/-/tags?format=atom
 
 libidn2 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libidn2/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libidn2/-/tags?format=atom
 
 libmd @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libmd/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libmd/-/tags?format=atom
 
 libmnl @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libmnl/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libmnl/-/tags?format=atom
 
 libmpc @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libmpc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libmpc/-/tags?format=atom
 
 libmpfr @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/mpfr/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mpfr/-/tags?format=atom
 
 libnfnetlink @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libnfnetlink/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libnfnetlink/-/tags?format=atom
 
 libnftnl @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libnftnl/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libnftnl/-/tags?format=atom
 
 libnsl @ github.com releases
   https://github.com/thkukuk/libnsl/releases.atom
 
 libnsl @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libnsl/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libnsl/-/tags?format=atom
 
 libpcre @ sourceforge.net releases
-  https://sourceforge.net/projects/pcre/rss?path=/pcre 
+  https://sourceforge.net/projects/pcre/rss?path=/pcre
 
 libpcre2 @ github.com releases
   https://github.com/PCRE2Project/pcre2/releases.atom
 
 libpipeline @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libpipeline/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libpipeline/-/tags?format=atom
 
 libpipeline @ gitlab.com tags
-  https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom 
+  https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom
 
 libtirpc @ git.linux-nfs.org commits releases
-  http://git.linux-nfs.org/?p=steved/libtirpc.git;a=atom 
+  http://git.linux-nfs.org/?p=steved/libtirpc.git;a=atom
 
 libtirpc @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libtirpc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libtirpc/-/tags?format=atom
 
 libtool @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/libtool.git/atom 
+  https://git.savannah.nongnu.org/cgit/libtool.git/atom
 
 libtool @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libtool/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libtool/-/tags?format=atom
 
 libunistring @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/libunistring.git/atom 
+  https://git.savannah.nongnu.org/cgit/libunistring.git/atom
 
 libusb @ github.com releases
   https://github.com/libusb/libusb/releases.atom
@@ -299,7 +299,7 @@ linux-pam @ github.com releases
   https://github.com/linux-pam/linux-pam/releases.atom
 
 linux-pam @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/pam/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/pam/-/tags?format=atom
 
 logrotate @ github.com releases
   https://github.com/logrotate/logrotate/releases.atom
@@ -308,40 +308,40 @@ lz4 @ github.com releases
   https://github.com/lz4/lz4/releases.atom
 
 lzo @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/lzo/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/lzo/-/tags?format=atom
 
 m4 @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/m4.git/atom 
+  https://git.savannah.nongnu.org/cgit/m4.git/atom
 
 m4 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/m4/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/m4/-/tags?format=atom
 
 make @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/make.git/atom 
+  https://git.savannah.nongnu.org/cgit/make.git/atom
 
 make @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/make/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/make/-/tags?format=atom
 
 man-db @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/man-db/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/man-db/-/tags?format=atom
 
 man-db @ gitlab.com tags
-  https://gitlab.com/man-db/man-db/-/releases.atom 
+  https://gitlab.com/man-db/man-db/-/releases.atom
 
 man-pages @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/man-pages/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/man-pages/-/tags?format=atom
 
 meson @ github.com releases
   https://github.com/mesonbuild/meson/releases.atom
 
 mlocate @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/mlocate/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mlocate/-/tags?format=atom
 
 modules-load @ github.com commits:master
   https://github.com/zeppe-lin/modules-load/commits/master.atom
 
 mpdecimal @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/mpdecimal/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mpdecimal/-/tags?format=atom
 
 nasm @ github.com releases
   https://github.com/netwide-assembler/nasm/releases.atom
@@ -353,22 +353,22 @@ openssh @ github.com releases
   https://github.com/openssh/openssh-portable/releases.atom
 
 openssh @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/openssh/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/openssh/-/tags?format=atom
 
 openssl @ github.com releases
   https://github.com/openssl/openssl/releases.atom
 
 openssl @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/openssl/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/openssl/-/tags?format=atom
 
 p5-xml-parser @ metacpan.org releases
-  https://metacpan.org/dist/XML-Parser/releases.rss 
+  https://metacpan.org/dist/XML-Parser/releases.rss
 
 patch @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/patch.git/atom 
+  https://git.savannah.nongnu.org/cgit/patch.git/atom
 
 patch @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/patch/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/patch/-/tags?format=atom
 
 pciutils @ github.com releases
   https://github.com/pciutils/pciutils/releases.atom
@@ -377,7 +377,7 @@ perl @ github.com releases
   https://github.com/Perl/perl5/releases.atom
 
 pkg-config @ gitlab.freedesktop.org tags
-  https://gitlab.freedesktop.org/pkg-config/pkg-config/-/tags?format=atom 
+  https://gitlab.freedesktop.org/pkg-config/pkg-config/-/tags?format=atom
 
 pkgman @ github.com commits:master
   https://github.com/zeppe-lin/pkgman/commits/master.atom
@@ -388,23 +388,26 @@ pkgmk @ github.com commits:master
 pkgutils @ github.com commits:master
   https://github.com/zeppe-lin/pkgutils/commits/master.atom
 
+popt @ github.com releases
+  https://github.com/rpm-software-management/popt/releases.atom
+
 procps @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/procps-ng/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/procps-ng/-/tags?format=atom
 
 procps @ gitlab.com tags
-  https://gitlab.com/procps-ng/procps/-/tags?format=atom 
+  https://gitlab.com/procps-ng/procps/-/tags?format=atom
 
 psmisc @ sourceforge.net releases
-  https://sourceforge.net/projects/psmisc/rss?path=/psmisc 
+  https://sourceforge.net/projects/psmisc/rss?path=/psmisc
 
 py3-flit-core @ pypi.org releases
-  https://pypi.org/rss/project/flit-core/releases.xml 
+  https://pypi.org/rss/project/flit-core/releases.xml
 
 py3-gpep517 @ pypi.org releases
-  https://pypi.org/rss/project/gpep517/releases.xml 
+  https://pypi.org/rss/project/gpep517/releases.xml
 
 py3-installer @ pypi.org releases
-  https://pypi.org/rss/project/installer/releases.xml 
+  https://pypi.org/rss/project/installer/releases.xml
 
 py3-setuptools @ github.com releases
   https://github.com/pypa/setuptools/releases.atom
@@ -422,7 +425,7 @@ rdate @ github.com releases
   https://github.com/leahneukirchen/outils/releases.atom
 
 readline @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/readline.git/atom 
+  https://git.savannah.nongnu.org/cgit/readline.git/atom
 
 rejmerge @ github.com commits:master
   https://github.com/zeppe-lin/rejmerge/commits/master.atom
@@ -440,19 +443,19 @@ run-one @ github.com tags
   https://github.com/dustinkirkland/run-one/tags.atom
 
 run-parts @ salsa.debian.org tags
-  https://salsa.debian.org/debian/debianutils/-/tags?format=atom 
+  https://salsa.debian.org/debian/debianutils/-/tags?format=atom
 
 samurai @ github.com releases
   https://github.com/michaelforney/samurai/releases.atom
 
 scdoc @ git.sr.ht refs
-  https://git.sr.ht/~sircmpwn/scdoc/refs/rss.xml 
+  https://git.sr.ht/~sircmpwn/scdoc/refs/rss.xml
 
 sed @ git.savannah.nongnu.org commits releases
-  https://git.savannah.nongnu.org/cgit/sed.git/atom 
+  https://git.savannah.nongnu.org/cgit/sed.git/atom
 
 sed @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/sed/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/sed/-/tags?format=atom
 
 seedrng @ github.com commits:master
   https://github.com/zeppe-lin/seedrng/commits.atom
@@ -461,7 +464,7 @@ shadow @ github.com releases
   https://github.com/shadow-maint/shadow/releases.atom
 
 shadow @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/shadow/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/shadow/-/tags?format=atom
 
 sqlite3 @ github.com releases
   https://github.com/mackyle/sqlite/releases.atom
@@ -482,49 +485,49 @@ sysklogd @ github.com releases
   https://github.com/troglobit/sysklogd/releases.atom
 
 sysvinit @ codeberg.org releases
-  https://codeberg.org/thejessesmith/sysvinit/releases.rss 
+  https://codeberg.org/thejessesmith/sysvinit/releases.rss
 
 tar @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/tar.git/atom 
+  https://git.savannah.nongnu.org/cgit/tar.git/atom
 
 tar @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/tar/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/tar/-/tags?format=atom
 
 traceroute @ sourceforge.net releases
-  https://sourceforge.net/projects/traceroute/rss?path=/traceroute 
+  https://sourceforge.net/projects/traceroute/rss?path=/traceroute
 
 tzdata @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/tzdata/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/tzdata/-/tags?format=atom
 
 usbutils @ github.com tags
   https://github.com/gregkh/usbutils/tags.atom
 
 usbutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/usbutils/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/usbutils/-/tags?format=atom
 
 util-linux @ github.com tags
   https://github.com/util-linux/util-linux/tags.atom
 
 util-linux @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/util-linux/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/util-linux/-/tags?format=atom
 
 vim @ github.com releases
   https://github.com/vim/vim/releases.atom
 
 wget @ git.savannah.nongnu.org commits
-  https://git.savannah.nongnu.org/cgit/wget.git/atom 
+  https://git.savannah.nongnu.org/cgit/wget.git/atom
 
 wget @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/wget/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/wget/-/tags?format=atom
 
 which @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/which/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/which/-/tags?format=atom
 
 xz @ github.com releases
   https://github.com/tukaani-project/xz/releases.atom
 
 xz @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/xz/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/xz/-/tags?format=atom
 
 zlib @ github.com releases
   https://github.com/madler/zlib/releases.atom

@@ -1,5 +1,5 @@
 acpid @ sourceforge.net feeds
-  https://sourceforge.net/projects/acpid2/rss?path=/ 
+  https://sourceforge.net/projects/acpid2/rss?path=/
 
 alsa-lib @ github.com releases
   https://github.com/alsa-project/alsa-lib/releases.atom
@@ -11,22 +11,22 @@ alsa-utils @ github.com releases
   https://github.com/alsa-project/alsa-utils/releases.atom
 
 apr @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/apr/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/apr/-/tags?format=atom
 
 apr-util @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/apr-util/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/apr-util/-/tags?format=atom
 
 autoconf-archive @ github.com tags
   https://github.com/autoconf-archive/autoconf-archive/tags.atom
 
 autoconf-archive @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/autoconf-archive/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/autoconf-archive/-/tags?format=atom
 
 bindutils @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/bind/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/bind/-/tags?format=atom
 
 bridge-utils @ git.kernel.org commits releases
-  https://git.kernel.org/pub/scm/network/bridge/bridge-utils.git/atom/?h=main 
+  https://git.kernel.org/pub/scm/network/bridge/bridge-utils.git/atom/?h=main
 
 capstone/py3-capstone @ github.com commits:master
   https://github.com/capstone-engine/capstone/commits/master.atom
@@ -38,25 +38,25 @@ cgroupfs-mount @ github.com releases
   https://github.com/tianon/cgroupfs-mount/releases.atom
 
 chrony @ gitlab.com tags
-  https://gitlab.com/chrony/chrony/-/tags?format=atom 
+  https://gitlab.com/chrony/chrony/-/tags?format=atom
 
 cmark @ github.com releases
   https://github.com/commonmark/cmark/releases.atom
 
 console-font-terminus/xorg-font-terminus @ sourceforge.net releases
-  https://sourceforge.net/projects/terminus-font/rss?path=/ 
+  https://sourceforge.net/projects/terminus-font/rss?path=/
 
 cpufrequtils @ salsa.debian.org tags
-  https://salsa.debian.org/debian/cpufrequtils/-/tags?format=atom 
+  https://salsa.debian.org/debian/cpufrequtils/-/tags?format=atom
 
 cpuid @ salsa.debian.org tags
-  https://salsa.debian.org/debian/cpuid/-/tags?format=atom 
+  https://salsa.debian.org/debian/cpuid/-/tags?format=atom
 
 cryptmount @ github.com commits:master
   https://github.com/zeppe-lin/cryptmount/commits/master.atom
 
 cryptsetup @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/cryptsetup/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/cryptsetup/-/tags?format=atom
 
 cups @ github.com releases
   https://github.com/openprinting/cups/releases.atom
@@ -65,16 +65,16 @@ cyrus-sasl @ github.com releases
   https://github.com/cyrusimap/cyrus-sasl/releases.atom
 
 dhcp @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/dhcp/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dhcp/-/tags?format=atom
 
 dhcpcd @ github.com releases
   https://github.com/NetworkConfiguration/dhcpcd/releases.atom
 
 dialog @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/dialog/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dialog/-/tags?format=atom
 
 docutils @ pypi.org releases
-  https://pypi.org/rss/project/docutils/releases.xml 
+  https://pypi.org/rss/project/docutils/releases.xml
 
 dosfstools @ github.com releases
   https://github.com/dosfstools/dosfstools/releases.atom
@@ -83,7 +83,7 @@ e2fsprogs @ github.com releases
   https://github.com/tytso/e2fsprogs/releases.atom
 
 e2fsprogs @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/e2fsprogs/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/e2fsprogs/-/tags?format=atom
 
 efibootmgr @ github.com releases
   https://github.com/rhboot/efibootmgr/releases.atom
@@ -92,25 +92,25 @@ efivar @ github.com releases
   https://github.com/rhboot/efivar/releases.atom
 
 ethtool @ git.kernel.org commits releases
-  https://git.kernel.org/pub/scm/network/ethtool/ethtool.git/atom/?h=master 
+  https://git.kernel.org/pub/scm/network/ethtool/ethtool.git/atom/?h=master
 
 ethtool @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/ethtool/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ethtool/-/tags?format=atom
 
 expect @ sourceforge.net releases
-  https://sourceforge.net/projects/expect/rss?path=/Expect 
+  https://sourceforge.net/projects/expect/rss?path=/Expect
 
 freetype @ gitlab.freedesktop.org tags
-  https://gitlab.freedesktop.org/freetype/freetype/-/tags?format=atom 
+  https://gitlab.freedesktop.org/freetype/freetype/-/tags?format=atom
 
 fuse @ github.com releases
   https://github.com/libfuse/libfuse/releases.atom
 
 glib @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/glib2/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/glib2/-/tags?format=atom
 
 glib @ gitlab.gnome.org tags
-  https://gitlab.gnome.org/GNOME/glib/-/tags?format=atom 
+  https://gitlab.gnome.org/GNOME/glib/-/tags?format=atom
 
 gnupg @ github.com releases
   https://github.com/gpg/gnupg/releases.atom
@@ -119,7 +119,7 @@ gnutls @ github.com releases
   https://github.com/gnutls/gnutls/tags.atom
 
 grub2/grub2-efi @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/tags?format=atom
 
 hddtemp @ github.com commits
   https://github.com/vitlav/hddtemp/commits/master.atom
@@ -128,13 +128,13 @@ hddtemp @ github.com tags
   https://github.com/vitlav/hddtemp/tags.atom
 
 hostapd @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/hostapd/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/hostapd/-/tags?format=atom
 
 htop @ github.com releases
   https://github.com/htop-dev/htop/releases.atom
 
 iftop @ salsa.debian.org tags
-  https://salsa.debian.org/debian/iftop/-/tags?format=atom 
+  https://salsa.debian.org/debian/iftop/-/tags?format=atom
 
 inotify-tools @ github.com releases
   https://github.com/inotify-tools/inotify-tools/releases.atom
@@ -143,7 +143,7 @@ iotop @ github.com releases
   https://github.com/Tomas-M/iotop/releases.atom
 
 iperf @ sourceforge.net releases
-  https://sourceforge.net/projects/iperf/rss?path=/ 
+  https://sourceforge.net/projects/iperf/rss?path=/
 
 iperf3 @ github.com releases
   https://github.com/esnet/iperf/releases.atom
@@ -152,22 +152,22 @@ iputils @ github.com releases
   https://github.com/iputils/iputils/releases.atom
 
 iw @ git.kernel.org commits releases
-  https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master 
+  https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git/atom/?h=master
 
 iw @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/iw/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/iw/-/tags?format=atom
 
 json-c @ github.com releases
   https://github.com/json-c/json-c/releases.atom
 
 keyutils @ git.kernel.org commits:master releases
-  https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/atom/?h=master 
+  https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git/atom/?h=master
 
 lftp @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/lftp/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/lftp/-/tags?format=atom
 
 libaio @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libaio/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libaio/-/tags?format=atom
 
 libassuan @ github.com releases
   https://github.com/gpg/libassuan/releases.atom
@@ -179,10 +179,10 @@ libconfig @ github.com releases
   https://github.com/hyperrealm/libconfig/releases.atom
 
 libedit @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libedit/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libedit/-/tags?format=atom
 
 libev @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libev/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libev/-/tags?format=atom
 
 libevent @ github.com releases
   https://github.com/libevent/libevent/releases.atom
@@ -208,14 +208,14 @@ libpcap @ github.com tags
 libpng @ github.com releases
   https://github.com/pnggroup/libpng/releases.atom
 
-libssh @ gitlab.com tags
-  https://gitlab.com/libssh/libssh-mirror/-/tags?format=atom 
-
 libssh @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libssh/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libssh/-/tags?format=atom
+
+libssh @ gitlab.com tags
+  https://gitlab.com/libssh/libssh-mirror/-/tags?format=atom
 
 libtasn1 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libtasn1/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libtasn1/-/tags?format=atom
 
 libunwind @ github.com releases
   https://github.com/libunwind/libunwind/releases.atom
@@ -227,7 +227,7 @@ libuv @ github.com releases
   https://github.com/libuv/libuv/releases.atom
 
 libxml2 @ gitlab.gnome.org tags
-  https://gitlab.gnome.org/GNOME/libxml2/-/tags?format=atom 
+  https://gitlab.gnome.org/GNOME/libxml2/-/tags?format=atom
 
 lighttpd @ github.com releases
   https://github.com/lighttpd/lighttpd1.4/releases.atom
@@ -239,13 +239,13 @@ linux @ github.com releases
   https://github.com/gregkh/linux/releases.atom
 
 linux-firmware @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/linux-firmware/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/linux-firmware/-/tags?format=atom
 
 llvm @ github.com releases
   https://github.com/llvm/llvm-project/releases.atom
 
 llvm @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/llvm/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/llvm/-/tags?format=atom
 
 lm-sensors @ github.com releases
   https://github.com/lm-sensors/lm-sensors/releases.atom
@@ -257,16 +257,16 @@ lsscsi @ github.com releases
   https://github.com/doug-gilbert/lsscsi/releases.atom
 
 ltrace @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/ltrace/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/ltrace/-/tags?format=atom
 
 make-ca @ github.com releases
   https://github.com/lfs-book/make-ca/releases.atom
 
 mdadm @ git.kernel.org commits releases
-  https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/atom/?h=master 
+  https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/atom/?h=master
 
 mdadm @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/mdadm/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mdadm/-/tags?format=atom
 
 mkinitramfs @ github.com commits
   https://github.com/zeppe-lin/mkinitramfs/commits/master.atom
@@ -275,7 +275,7 @@ mkrootfs @ github.com commits
   https://github.com/zeppe-lin/mkrootfs/commits/master.atom
 
 monit @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/monit/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/monit/-/tags?format=atom
 
 net-tools @ github.com commits:master
   https://github.com/ecki/net-tools/commits/master.atom
@@ -284,10 +284,10 @@ net-tools @ github.com releases
   https://github.com/ecki/net-tools/releases.atom
 
 nettle @ git.lysator.liu.se tags
-  https://git.lysator.liu.se/nettle/nettle/-/tags?format=atom 
+  https://git.lysator.liu.se/nettle/nettle/-/tags?format=atom
 
 nfs-utils @ sourceforge.net releases
-  https://sourceforge.net/projects/nfs/rss?path=/nfs-utils 
+  https://sourceforge.net/projects/nfs/rss?path=/nfs-utils
 
 npth @ github.com releases
   https://github.com/gpg/npth/releases.atom
@@ -305,19 +305,19 @@ openvpn @ github.com releases
   https://github.com/OpenVPN/openvpn/releases.atom
 
 oprofile @ sourceforge.net releases
-  https://sourceforge.net/projects/oprofile/rss?path=/oprofile 
+  https://sourceforge.net/projects/oprofile/rss?path=/oprofile
 
 p11-kit @ github.com releases
   https://github.com/p11-glue/p11-kit/releases.atom
 
 p5-yaml-libyaml @ metacpan.org releases
-  https://metacpan.org/dist/YAML-LibYAML/releases.rss 
+  https://metacpan.org/dist/YAML-LibYAML/releases.rss
 
 pandoc-bin @ github.com releases
   https://github.com/jgm/pandoc/releases.atom
 
 parted @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/parted/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/parted/-/tags?format=atom
 
 pigz @ github.com tags
   https://github.com/madler/pigz/tags.atom
@@ -328,9 +328,6 @@ pinentry/pinentry-gtk2 @ github.com releases
 pkgmaint @ github.com commits:master
   https://github.com/zeppe-lin/pkgmaint/commits/master.atom
 
-popt @ github.com releases
-  https://github.com/rpm-software-management/popt/releases.atom
-
 postgresql @ github.com tags
   https://github.com/postgres/postgres/tags.atom
 
@@ -338,10 +335,10 @@ powertop @ github.com releases
   https://github.com/fenrus75/powertop/releases.atom
 
 pv @ codeberg.org tags
-  https://codeberg.org/a-j-wood/pv/tags.rss 
+  https://codeberg.org/a-j-wood/pv/tags.rss
 
 py3-packaging @ pypi.org releases
-  https://pypi.org/rss/project/packaging/releases.xml 
+  https://pypi.org/rss/project/packaging/releases.xml
 
 py3-six @ github.com releases
   https://github.com/benjaminp/six/releases.atom
@@ -350,28 +347,28 @@ rdfind @ github.com releases
   https://github.com/pauldreik/rdfind/releases.atom
 
 rpcbind @ git.linux-nfs.org commits releases
-  http://git.linux-nfs.org/?p=steved/rpcbind.git;a=atom 
+  http://git.linux-nfs.org/?p=steved/rpcbind.git;a=atom
 
 rpcsvc-proto @ github.com releases
   https://github.com/thkukuk/rpcsvc-proto/releases.atom
 
 rsync @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/rsync/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/rsync/-/tags?format=atom
 
 screen @ savannah.gnu.org news
-  https://savannah.gnu.org/news/atom.php?group=screen 
+  https://savannah.gnu.org/news/atom.php?group=screen
 
 serf @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/serf/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/serf/-/tags?format=atom
 
 smartmontools @ github.com releases
   https://github.com/smartmontools/smartmontools/releases.atom
 
 socat @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/socat/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/socat/-/tags?format=atom
 
 socat @ repo.or.cz commits:master releases
-  https://repo.or.cz/socat.git/atom 
+  https://repo.or.cz/socat.git/atom
 
 sshfs-fuse @ github.com commits
   https://github.com/libfuse/sshfs/commits/main.atom
@@ -383,31 +380,31 @@ strace @ github.com releases
   https://github.com/strace/strace/releases.atom
 
 subversion @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/subversion/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/subversion/-/tags?format=atom
 
 tcl/tk @ sourceforge.net releases
-  https://sourceforge.net/projects/tcl/rss?path=/Tcl 
+  https://sourceforge.net/projects/tcl/rss?path=/Tcl
 
 tcpdump @ github.com tags
   https://github.com/the-tcpdump-group/tcpdump/tags.atom
 
 texinfo @ savannah.gnu.org news
-  https://savannah.gnu.org/news/atom.php?group=texinfo 
+  https://savannah.gnu.org/news/atom.php?group=texinfo
 
 transmission @ github.com releases
   https://github.com/transmission/transmission/releases.atom
 
 tree @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/unix-tree/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/unix-tree/-/tags?format=atom
 
 uftrace @ github.com tags
   https://github.com/namhyung/uftrace/tags.atom
 
 unzip @ sourceforge.net releases
-  https://sourceforge.net/projects/infozip/rss?path=/UnZip%206.x%20%28latest%29 
+  https://sourceforge.net/projects/infozip/rss?path=/UnZip%206.x%20%28latest%29
 
 usbredir @ gitlab.freedesktop.org tags
-  https://gitlab.freedesktop.org/spice/usbredir/-/tags?format=atom 
+  https://gitlab.freedesktop.org/spice/usbredir/-/tags?format=atom
 
 utf8proc @ github.com releases
   https://github.com/JuliaStrings/utf8proc/releases.atom
@@ -416,10 +413,10 @@ uthash @ github.com releases
   https://github.com/troydhanson/uthash/releases.atom
 
 valgrind @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/valgrind/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/valgrind/-/tags?format=atom
 
 valgrind @ sourceware.org commits releases
-  https://sourceware.org/git?p=valgrind.git;a=atom 
+  https://sourceware.org/git?p=valgrind.git;a=atom
 
 whois @ github.com releases
   https://github.com/rfc1036/whois/releases.atom
@@ -428,7 +425,7 @@ wireless-tools @ github.com releases
   https://github.com/HewlettPackard/wireless-tools/releases.atom
 
 wpa-supplicant @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/wpa_supplicant/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/wpa_supplicant/-/tags?format=atom
 
 x86-manpages @ github.com commits:master
   https://github.com/ttmo-O/x86-manpages/commits/master.atom
@@ -440,4 +437,4 @@ yasm @ github.com releases
   https://github.com/yasm/yasm/releases.atom
 
 zip @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/zip/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/zip/-/tags?format=atom

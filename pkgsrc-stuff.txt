@@ -41,7 +41,7 @@ boost @ github.com tags
   https://github.com/boostorg/boost/tags.atom
 
 boost @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/boost/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/boost/-/tags?format=atom
 
 btrfs-progs @ github.com releases
   https://github.com/kdave/btrfs-progs/releases.atom
@@ -89,22 +89,22 @@ dhcp-spoof @ github.com commits:master
   https://github.com/emanuele-f/dhcp-spoof/commits/master.atom
 
 dhex @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/dhex/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dhex/-/tags?format=atom
 
 dnsgen @ github.com commits:master
   https://github.com/AlephNullSK/dnsgen/commits/master.atom
 
 docker-bin @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/docker/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/docker/-/tags?format=atom
 
 docker-compose-bin @ github.com releases
   https://github.com/docker/compose/releases.atom
 
 dos2unix @ sourceforge.net releases
-  https://sourceforge.net/projects/dos2unix/rss?path=/dos2unix 
+  https://sourceforge.net/projects/dos2unix/rss?path=/dos2unix
 
 dsniff @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/dsniff/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/dsniff/-/tags?format=atom
 
 dsss @ github.com commits:master
   https://github.com/stamparm/DSSS/commits/master.atom
@@ -113,7 +113,7 @@ exif @ github.com releases
   https://github.com/libexif/exif/releases.atom
 
 extundelete @ salsa.debian.org tags
-  https://salsa.debian.org/pkg-security-team/extundelete/-/tags?format=atom 
+  https://salsa.debian.org/pkg-security-team/extundelete/-/tags?format=atom
 
 ffuf-bin @ github.com releases
   https://github.com/ffuf/ffuf/releases.atom
@@ -136,11 +136,11 @@ firefox-vimium-bin @ github.com tags
 flawfinder @ github.com releases
   https://github.com/david-a-wheeler/flawfinder/releases.atom
 
-fqlite-bin @ github.com releases
+fqlite-bin/fqlite3-bin/fqlite4-bin @ github.com releases
   https://github.com/pawlaszczyk/fqlite/releases.atom
 
 freerdp2 @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/freerdp/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/freerdp/-/tags?format=atom
 
 gau-bin @ github.com releases
   https://github.com/lc/gau/releases.atom
@@ -173,13 +173,13 @@ gperftools @ github.com releases
   https://github.com/gperftools/gperftools/releases.atom
 
 graphviz @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/graphviz/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/graphviz/-/tags?format=atom
 
 gspoof @ github.com package:freebsd commits
   https://github.com/freebsd/freebsd-ports/commits/main/net/gspoof.atom
 
 gspoof @ sourceforge.net releases
-  https://sourceforge.net/projects/gspoof/rss?path=/ 
+  https://sourceforge.net/projects/gspoof/rss?path=/
 
 gtorrentviewer @ github.com package:freebsd commits
   https://github.com/freebsd/freebsd-ports/commits/main/net-p2p/gtorrentviewer.atom
@@ -233,16 +233,13 @@ hunspell @ github.com releases
   https://github.com/hunspell/hunspell/releases.atom
 
 hunspell-en-us @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/hunspell-en/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/hunspell-en/-/tags?format=atom
 
 hwloc @ github.com releases
   https://github.com/open-mpi/hwloc/releases.atom
 
 ipcloak @ github.com commits:master
   https://github.com/sighook/ipcloak/commits/master.atom
-
-ipobfs @ github.com commits:master
-  https://github.com/sighook/ipobfs/commits/master.atom
 
 jadx-bin @ github.com commits:master
   https://github.com/skylot/jadx/commits/master.atom
@@ -293,22 +290,22 @@ libfaketime @ github.com releases
   https://github.com/wolfcw/libfaketime/releases.atom
 
 libglade @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libglade/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libglade/-/tags?format=atom
 
 libglade @ gitlab.gnome.org tags
-  https://gitlab.gnome.org/Archive/libglade/-/tags?format=atom 
+  https://gitlab.gnome.org/Archive/libglade/-/tags?format=atom
 
 libidn @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libidn/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libidn/-/tags?format=atom
 
 libnet @ github.com releases
   https://github.com/libnet/libnet/releases.atom
 
 libnetfilter-queue @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/libnetfilter_queue/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/libnetfilter_queue/-/tags?format=atom
 
 libnids @ sourceforge.net releases
-  https://sourceforge.net/projects/libnids/rss?path=/libnids 
+  https://sourceforge.net/projects/libnids/rss?path=/libnids
 
 libtorrent-rasterbar @ github.com releases
   https://github.com/arvidn/libtorrent/releases.atom
@@ -317,7 +314,7 @@ linkfinder @ github.com commits:master
   https://github.com/GerbenJavado/LinkFinder/commits/master.atom
 
 linssid @ sourceforge.net releases
-  https://sourceforge.net/projects/linssid/rss?path=/ 
+  https://sourceforge.net/projects/linssid/rss?path=/
 
 macchanger @ github.com commits:master
   https://github.com/alobbs/macchanger/commits/master.atom
@@ -326,7 +323,7 @@ macchanger @ github.com releases
   https://github.com/alobbs/macchanger/releases.atom
 
 mandoc @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/mandoc/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/mandoc/-/tags?format=atom
 
 masscan @ github.com commits:master
   https://github.com/robertdavidgraham/masscan/commits/master.atom
@@ -359,16 +356,16 @@ ncrack @ github.com releases
   https://github.com/nmap/ncrack/releases.atom
 
 netcat-openbsd @ tracker.debian.org news
-  https://tracker.debian.org/pkg/netcat-openbsd/rss 
+  https://tracker.debian.org/pkg/netcat-openbsd/rss
 
 netdiscover @ github.com releases
   https://github.com/netdiscover-scanner/netdiscover/releases.atom
 
 nikto @ github.com commits:master
-  https://github.com/sullo/nikto/commits/master.atom
+  https://github.com/sullo/nikto/commits/main.atom
 
 nmap @ seclists.org news
-  https://seclists.org/rss/nmap-announce.rss 
+  https://seclists.org/rss/nmap-announce.rss
 
 nmap-extra-nse @ github.com commits:master
   https://github.com/sighook/nmap-extra-nse/commits/master.atom
@@ -377,277 +374,262 @@ nuclei-bin @ github.com releases
   https://github.com/projectdiscovery/nuclei/releases.atom
 
 nvidia @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/nvidia/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/nvidia/-/tags?format=atom
 
 office2hashcat @ github.com commits:master
   https://github.com/sighook/office2hashcat/commits/master.atom
 
 otpcalc @ gitlab.com tags
-  https://gitlab.com/otpcalc/otpcalc/-/tags?format=atom 
+  https://gitlab.com/otpcalc/otpcalc/-/tags?format=atom
 
 otpcalc @ gitweb.gentoo.org commits:master
-  https://gitweb.gentoo.org/repo/gentoo.git/atom/sys-auth/otpcalc?h=master 
+  https://gitweb.gentoo.org/repo/gentoo.git/atom/sys-auth/otpcalc?h=master
 
 p0f @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/p0f/-/tags?format=atom
 
 p5-b-cow @ metacpan.org releases
-  https://metacpan.org/dist/B-COW/releases.rss 
+  https://metacpan.org/dist/B-COW/releases.rss
 
 p5-capture-tiny @ metacpan.org releases
-  https://metacpan.org/dist/Capture-Tiny/releases.rss 
+  https://metacpan.org/dist/Capture-Tiny/releases.rss
 
 p5-cgi @ metacpan.org releases
-  https://metacpan.org/dist/CGI/releases.rss 
+  https://metacpan.org/dist/CGI/releases.rss
 
 p5-clone @ metacpan.org releases
-  https://metacpan.org/dist/Clone/releases.rss 
+  https://metacpan.org/dist/Clone/releases.rss
 
 p5-compress-raw-lzma @ metacpan.org releases
-  https://metacpan.org/dist/Compress-Raw-Lzma/releases.rss 
+  https://metacpan.org/dist/Compress-Raw-Lzma/releases.rss
 
 p5-config-autoconf @ metacpan.org releases
-  https://metacpan.org/dist/Config-AutoConf/releases.rss 
+  https://metacpan.org/dist/Config-AutoConf/releases.rss
 
 p5-devel-cycle @ metacpan.org releases
-  https://metacpan.org/dist/Devel-Cycle/releases.rss 
+  https://metacpan.org/dist/Devel-Cycle/releases.rss
 
 p5-digest-hmac @ metacpan.org releases
-  https://metacpan.org/dist/Digest-HMAC/releases.rss 
+  https://metacpan.org/dist/Digest-HMAC/releases.rss
 
 p5-encode-locale @ metacpan.org releases
-  https://metacpan.org/dist/Encode-Locale/releases.rss 
+  https://metacpan.org/dist/Encode-Locale/releases.rss
 
 p5-extutils-helpers @ metacpan.org releases
-  https://metacpan.org/dist/ExtUtils-Helpers/releases.rss 
+  https://metacpan.org/dist/ExtUtils-Helpers/releases.rss
 
 p5-extutils-installpaths @ metacpan.org releases
-  https://metacpan.org/dist/ExtUtils-InstallPaths/releases.rss 
+  https://metacpan.org/dist/ExtUtils-InstallPaths/releases.rss
 
 p5-file-libmagic @ metacpan.org releases
-  https://metacpan.org/dist/File-LibMagic/releases.rss 
+  https://metacpan.org/dist/File-LibMagic/releases.rss
 
 p5-file-listing @ metacpan.org releases
-  https://metacpan.org/dist/File-Listing/releases.rss 
+  https://metacpan.org/dist/File-Listing/releases.rss
 
 p5-file-slurp-tiny @ metacpan.org releases
-  https://metacpan.org/dist/File-Slurp-Tiny/releases.rss 
+  https://metacpan.org/dist/File-Slurp-Tiny/releases.rss
 
 p5-file-slurper @ metacpan.org releases
-  https://metacpan.org/dist/File-Slurper/releases.rss 
+  https://metacpan.org/dist/File-Slurper/releases.rss
 
 p5-file-type @ metacpan.org releases
-  https://metacpan.org/dist/File-Type/releases.rss 
+  https://metacpan.org/dist/File-Type/releases.rss
 
 p5-file-which @ metacpan.org releases
-  https://metacpan.org/dist/File-Which/releases.rss 
+  https://metacpan.org/dist/File-Which/releases.rss
 
 p5-font-ttf @ metacpan.org releases
-  https://metacpan.org/dist/Font-TTF/releases.rss 
+  https://metacpan.org/dist/Font-TTF/releases.rss
 
 p5-gd @ metacpan.org releases
-  https://metacpan.org/dist/GD/releases.rss 
+  https://metacpan.org/dist/GD/releases.rss
 
 p5-gd-graph @ metacpan.org releases
-  https://metacpan.org/dist/GDGraph/releases.rss 
+  https://metacpan.org/dist/GDGraph/releases.rss
 
 p5-gd-text @ metacpan.org releases
-  https://metacpan.org/dist/GDTextUtil/releases.rss 
+  https://metacpan.org/dist/GDTextUtil/releases.rss
 
 p5-getopt-argvfile @ metacpan.org releases
-  https://metacpan.org/dist/Getopt-ArgvFile/releases.rss 
+  https://metacpan.org/dist/Getopt-ArgvFile/releases.rss
 
 p5-html-form @ metacpan.org releases
-  https://metacpan.org/dist/HTML-Form/releases.rss 
+  https://metacpan.org/dist/HTML-Form/releases.rss
 
 p5-html-parser @ metacpan.org releases
-  https://metacpan.org/dist/HTML-Parser/releases.rss 
+  https://metacpan.org/dist/HTML-Parser/releases.rss
 
 p5-html-tagset @ metacpan.org releases
-  https://metacpan.org/dist/HTML-Tagset/releases.rss 
+  https://metacpan.org/dist/HTML-Tagset/releases.rss
 
 p5-html-tree @ metacpan.org releases
-  https://metacpan.org/dist/HTML-Tree/releases.rss 
+  https://metacpan.org/dist/HTML-Tree/releases.rss
 
 p5-http-cookiejar @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-CookieJar/releases.rss 
+  https://metacpan.org/dist/HTTP-CookieJar/releases.rss
 
 p5-http-cookies @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Cookies/releases.rss 
+  https://metacpan.org/dist/HTTP-Cookies/releases.rss
 
 p5-http-daemon @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Daemon/releases.rss 
+  https://metacpan.org/dist/HTTP-Daemon/releases.rss
 
 p5-http-date @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Date/releases.rss 
+  https://metacpan.org/dist/HTTP-Date/releases.rss
 
 p5-http-message @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Message/releases.rss 
+  https://metacpan.org/dist/HTTP-Message/releases.rss
 
 p5-http-negotiate @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Negotiate/releases.rss 
+  https://metacpan.org/dist/HTTP-Negotiate/releases.rss
 
 p5-http-response-encoding @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Response-Encoding/releases.rss 
+  https://metacpan.org/dist/HTTP-Response-Encoding/releases.rss
 
 p5-http-server-simple @ metacpan.org releases
-  https://metacpan.org/dist/HTTP-Server-Simple/releases.rss 
+  https://metacpan.org/dist/HTTP-Server-Simple/releases.rss
 
 p5-image-exiftool @ metacpan.org releases
-  https://exiftool.org/rss.xml 
+  https://exiftool.org/rss.xml
 
 p5-image-size @ metacpan.org releases
-  https://metacpan.org/dist/Image-Size/releases.rss 
+  https://metacpan.org/dist/Image-Size/releases.rss
 
 p5-inc-latest @ metacpan.org releases
-  https://metacpan.org/dist/inc-latest/releases.rss 
+  https://metacpan.org/dist/inc-latest/releases.rss
 
 p5-io-html @ metacpan.org releases
-  https://metacpan.org/dist/IO-HTML/releases.rss 
+  https://metacpan.org/dist/IO-HTML/releases.rss
 
 p5-io-socket-inet6 @ metacpan.org releases
-  https://metacpan.org/dist/IO-Socket-INET6/releases.rss 
+  https://metacpan.org/dist/IO-Socket-INET6/releases.rss
 
 p5-io-socket-ssl @ metacpan.org releases
-  https://metacpan.org/dist/IO-Socket-SSL/releases.rss 
+  https://metacpan.org/dist/IO-Socket-SSL/releases.rss
 
 p5-json @ metacpan.org releases
-  https://metacpan.org/dist/JSON/releases.rss 
+  https://metacpan.org/dist/JSON/releases.rss
 
 p5-libwww @ metacpan.org releases
-  https://metacpan.org/dist/libwww-perl/releases.rss 
+  https://metacpan.org/dist/libwww-perl/releases.rss
 
 p5-lwp-mediatypes @ metacpan.org releases
-  https://metacpan.org/dist/LWP-MediaTypes/releases.rss 
+  https://metacpan.org/dist/LWP-MediaTypes/releases.rss
 
 p5-lwp-protocol-https @ metacpan.org releases
-  https://metacpan.org/dist/LWP-Protocol-https/releases.rss 
+  https://metacpan.org/dist/LWP-Protocol-https/releases.rss
 
 p5-mime-base32 @ metacpan.org releases
-  https://metacpan.org/dist/MIME-Base32/releases.rss 
+  https://metacpan.org/dist/MIME-Base32/releases.rss
 
 p5-module-build @ metacpan.org releases
-  https://metacpan.org/dist/Module-Build/releases.rss 
+  https://metacpan.org/dist/Module-Build/releases.rss
 
 p5-module-build-tiny @ metacpan.org releases
-  https://metacpan.org/dist/Module-Build-Tiny/releases.rss 
+  https://metacpan.org/dist/Module-Build-Tiny/releases.rss
 
 p5-mozilla-ca @ metacpan.org releases
-  https://metacpan.org/dist/Mozilla-CA/releases.rss 
+  https://metacpan.org/dist/Mozilla-CA/releases.rss
 
 p5-net-dns @ metacpan.org releases
-  https://metacpan.org/dist/Net-DNS/releases.rss 
+  https://metacpan.org/dist/Net-DNS/releases.rss
 
 p5-net-http @ metacpan.org releases
-  https://metacpan.org/dist/Net-HTTP/releases.rss 
+  https://metacpan.org/dist/Net-HTTP/releases.rss
 
 p5-net-pcap @ metacpan.org releases
-  https://metacpan.org/dist/Net-Pcap/releases.rss 
+  https://metacpan.org/dist/Net-Pcap/releases.rss
 
 p5-net-ssleay @ metacpan.org releases
-  https://metacpan.org/dist/Net-SSLeay/releases.rss 
+  https://metacpan.org/dist/Net-SSLeay/releases.rss
 
 p5-padwalker @ metacpan.org releases
-  https://metacpan.org/dist/PadWalker/releases.rss 
+  https://metacpan.org/dist/PadWalker/releases.rss
 
 p5-path-tiny @ metacpan.org releases
-  https://metacpan.org/dist/Path-Tiny/releases.rss 
+  https://metacpan.org/dist/Path-Tiny/releases.rss
 
 p5-pdf-api2 @ metacpan.org releases
-  https://metacpan.org/dist/PDF-API2/releases.rss 
+  https://metacpan.org/dist/PDF-API2/releases.rss
 
 p5-pod-parser @ metacpan.org releases
-  https://metacpan.org/dist/Pod-Parser/releases.rss 
+  https://metacpan.org/dist/Pod-Parser/releases.rss
 
 p5-regexp-common @ metacpan.org releases
-  https://metacpan.org/dist/Regexp-Common/releases.rss 
+  https://metacpan.org/dist/Regexp-Common/releases.rss
 
 p5-socket6 @ metacpan.org releases
-  https://metacpan.org/dist/Socket6/releases.rss 
+  https://metacpan.org/dist/Socket6/releases.rss
 
 p5-string-crc32 @ metacpan.org releases
-  https://metacpan.org/dist/String-CRC32/releases.rss 
+  https://metacpan.org/dist/String-CRC32/releases.rss
 
 p5-sub-uplevel @ metacpan.org releases
-  https://metacpan.org/dist/Sub-Uplevel/releases.rss 
+  https://metacpan.org/dist/Sub-Uplevel/releases.rss
 
 p5-term-readline-gnu @ metacpan.org releases
-  https://metacpan.org/dist/Term-ReadLine-Gnu/releases.rss 
+  https://metacpan.org/dist/Term-ReadLine-Gnu/releases.rss
 
 p5-test-deep @ metacpan.org releases
-  https://metacpan.org/dist/Test-Deep/releases.rss 
+  https://metacpan.org/dist/Test-Deep/releases.rss
 
 p5-test-exception @ metacpan.org releases
-  https://metacpan.org/dist/Test-Exception/releases.rss 
+  https://metacpan.org/dist/Test-Exception/releases.rss
 
 p5-test-fatal @ metacpan.org releases
-  https://metacpan.org/dist/Test-Fatal/releases.rss 
+  https://metacpan.org/dist/Test-Fatal/releases.rss
 
 p5-test-fork @ metacpan.org releases
-  https://metacpan.org/dist/Test-Fork/releases.rss 
+  https://metacpan.org/dist/Test-Fork/releases.rss
 
 p5-test-memory-cycle @ metacpan.org releases
-  https://metacpan.org/dist/Test-Memory-Cycle/releases.rss 
+  https://metacpan.org/dist/Test-Memory-Cycle/releases.rss
 
 p5-test-needs @ metacpan.org releases
-  https://metacpan.org/dist/Test-Needs/releases.rss 
+  https://metacpan.org/dist/Test-Needs/releases.rss
 
 p5-test-nowarnings @ metacpan.org releases
-  https://metacpan.org/dist/Test-NoWarnings/releases.rss 
+  https://metacpan.org/dist/Test-NoWarnings/releases.rss
 
 p5-test-output @ metacpan.org releases
-  https://metacpan.org/dist/Test-Output/releases.rss 
+  https://metacpan.org/dist/Test-Output/releases.rss
 
 p5-test-requiresinternet @ metacpan.org releases
-  https://metacpan.org/dist/Test-RequiresInternet/releases.rss 
+  https://metacpan.org/dist/Test-RequiresInternet/releases.rss
 
 p5-test-taint @ metacpan.org releases
-  https://metacpan.org/dist/Test-Taint/releases.rss 
+  https://metacpan.org/dist/Test-Taint/releases.rss
 
 p5-test-warn @ metacpan.org releases
-  https://metacpan.org/dist/Test-Warn/releases.rss 
+  https://metacpan.org/dist/Test-Warn/releases.rss
 
 p5-test-warnings @ metacpan.org releases
-  https://metacpan.org/dist/Test-Warnings/releases.rss 
+  https://metacpan.org/dist/Test-Warnings/releases.rss
 
 p5-text-csv @ metacpan.org releases
-  https://metacpan.org/dist/Text-CSV/releases.rss 
+  https://metacpan.org/dist/Text-CSV/releases.rss
 
 p5-timedate @ metacpan.org releases
-  https://metacpan.org/dist/TimeDate/releases.rss 
+  https://metacpan.org/dist/TimeDate/releases.rss
 
 p5-tree-dag-node @ metacpan.org releases
-  https://metacpan.org/dist/Tree-DAG_Node/releases.rss 
+  https://metacpan.org/dist/Tree-DAG_Node/releases.rss
 
 p5-try-tiny @ metacpan.org releases
-  https://metacpan.org/dist/Try-Tiny/releases.rss 
+  https://metacpan.org/dist/Try-Tiny/releases.rss
 
 p5-uri @ metacpan.org releases
-  https://metacpan.org/dist/URI/releases.rss 
+  https://metacpan.org/dist/URI/releases.rss
 
 p5-www-mechanize @ metacpan.org releases
-  https://metacpan.org/dist/WWW-Mechanize/releases.rss 
+  https://metacpan.org/dist/WWW-Mechanize/releases.rss
 
 p5-www-robotrules @ metacpan.org releases
-  https://metacpan.org/dist/WWW-RobotRules/releases.rss 
-
-p5-xml-namespacesupport @ metacpan.org releases
-  https://metacpan.org/dist/XML-NamespaceSupport/releases.rss 
-
-p5-xml-sax @ metacpan.org releases
-  https://metacpan.org/dist/XML-SAX/releases.rss 
-
-p5-xml-sax-base @ metacpan.org releases
-  https://metacpan.org/dist/XML-SAX-Base/releases.rss 
-
-p5-xml-sax-expat @ metacpan.org releases
-  https://metacpan.org/dist/XML-SAX-Expat/releases.rss 
-
-p5-xml-simple @ metacpan.org releases
-  https://metacpan.org/dist/XML-Simple/releases.rss 
+  https://metacpan.org/dist/WWW-RobotRules/releases.rss
 
 p7zip @ sourceforge.net releases
-  https://sourceforge.net/projects/p7zip/rss?path=/p7zip 
+  https://sourceforge.net/projects/p7zip/rss?path=/p7zip
 
 padbuster @ github.com commits:master
   https://github.com/gw0/PadBuster/commits/master.atom
@@ -689,7 +671,7 @@ pod2mdoc @ github.com package:freebsd commits
   https://github.com/freebsd/freebsd-ports/commits/main/textproc/pod2mdoc.atom
 
 pod2pdf @ metacpan.org releases
-  https://metacpan.org/dist/pod2pdf/releases.rss 
+  https://metacpan.org/dist/pod2pdf/releases.rss
 
 polipo @ github.com commits:master
   https://github.com/jech/polipo/commits/master.atom
@@ -716,16 +698,16 @@ py3-jsbeautifier @ github.com releases
   https://github.com/beautifier/js-beautify/releases.atom
 
 py3-pip @ pypi.org releases
-  https://pypi.org/rss/project/pip/releases.xml 
+  https://pypi.org/rss/project/pip/releases.xml
 
 py3-pycparser @ pypi.org releases
-  https://pypi.org/rss/project/pycparser/releases.xml 
+  https://pypi.org/rss/project/pycparser/releases.xml
 
 py3-smmap @ pypi.org releases
-  https://pypi.org/rss/project/smmap/releases.xml 
+  https://pypi.org/rss/project/smmap/releases.xml
 
 pygtk @ pypi.org releases
-  https://pypi.org/rss/project/pygtk/releases.xml 
+  https://pypi.org/rss/project/pygtk/releases.xml
 
 qbittorrent @ github.com tags
   https://github.com/qbittorrent/qBittorrent/tags.atom
@@ -737,7 +719,7 @@ qsreplace-bin @ github.com releases
   https://github.com/tomnomnom/qsreplace/releases.atom
 
 qwt @ sourceforge.net releases
-  https://sourceforge.net/projects/qwt/rss?path=/qwt 
+  https://sourceforge.net/projects/qwt/rss?path=/qwt
 
 radare2 @ github.com commits:master
   https://github.com/radareorg/radare2/commits/master.atom
@@ -806,13 +788,13 @@ socialscan @ github.com commits:master
   https://github.com/iojw/socialscan/commits/master.atom
 
 speexdsp @ gitlab.xiph.org releases
-  https://gitlab.xiph.org/xiph/speexdsp/-/releases.atom 
+  https://gitlab.xiph.org/xiph/speexdsp/-/releases.atom
 
 speexdsp @ gitlab.xiph.org tags
-  https://gitlab.xiph.org/xiph/speexdsp/-/tags?format=atom 
+  https://gitlab.xiph.org/xiph/speexdsp/-/tags?format=atom
 
 splint @ gitlab.archlinux.org tags
-  https://gitlab.archlinux.org/archlinux/packaging/packages/splint/-/tags?format=atom 
+  https://gitlab.archlinux.org/archlinux/packaging/packages/splint/-/tags?format=atom
 
 spoofcheck @ github.com commits:master
   https://github.com/sighook/spoofcheck/commits/master.atom
@@ -854,10 +836,10 @@ tor @ github.com releases
   https://github.com/torproject/tor/releases.atom
 
 torsocks @ gitlab.torproject.org commits:main
-  https://gitlab.torproject.org/tpo/core/torsocks/-/commits/main?format=atom 
+  https://gitlab.torproject.org/tpo/core/torsocks/-/commits/main?format=atom
 
 torsocks @ gitlab.torproject.org tags
-  https://gitlab.torproject.org/tpo/core/torsocks/-/tags?format=atom 
+  https://gitlab.torproject.org/tpo/core/torsocks/-/tags?format=atom
 
 trufflehog @ github.com releases
   https://github.com/trufflesecurity/truffleHog/releases.atom
@@ -878,7 +860,7 @@ waybackurls-bin @ github.com releases
   https://github.com/tomnomnom/waybackurls/releases.atom
 
 wdiff @ savannah.gnu.org news
-  https://savannah.gnu.org/news/atom.php?group=wdiff 
+  https://savannah.gnu.org/news/atom.php?group=wdiff
 
 whatweb @ github.com commits:master
   https://github.com/urbanadventurer/WhatWeb/commits/master.atom
