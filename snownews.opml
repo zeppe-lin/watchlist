@@ -98,6 +98,8 @@
 <outline text="libpcre2 @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/PCRE2Project/pcre2/releases.atom" category="pkgsrc-core"/>
 <outline text="libpipeline @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/libpipeline/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="libpipeline @ gitlab.com tags" xmlUrl="https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom" category="pkgsrc-core"/>
+<outline text="libpkgcore @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/libpkgcore/commits/master.atom" category="pkgsrc-core"/>
+<outline text="librevdep @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/librevdep/commits/master.atom" category="pkgsrc-core"/>
 <outline text="libtirpc @ git.linux-nfs.org commits releases" xmlUrl="http://git.linux-nfs.org/?p=steved/libtirpc.git;a=atom" category="pkgsrc-core"/>
 <outline text="libtirpc @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/libtirpc/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="libtool @ git.savannah.nongnu.org commits" xmlUrl="https://git.savannah.nongnu.org/cgit/libtool.git/atom" category="pkgsrc-core"/>
@@ -309,6 +311,7 @@
 <outline text="rpcsvc-proto @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/thkukuk/rpcsvc-proto/releases.atom" category="pkgsrc-system"/>
 <outline text="rsync @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/rsync/-/tags?format=atom" category="pkgsrc-system"/>
 <outline text="screen @ savannah.gnu.org news" xmlUrl="https://savannah.gnu.org/news/atom.php?group=screen" category="pkgsrc-system"/>
+<outline text="sdparm @ gitlab.archlinux.org commits:main" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/sdparm/-/commits/main?format=atom" category="pkgsrc-system"/>
 <outline text="serf @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/serf/-/tags?format=atom" category="pkgsrc-system"/>
 <outline text="smartmontools @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/smartmontools/smartmontools/releases.atom" category="pkgsrc-system"/>
 <outline text="socat @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/socat/-/tags?format=atom" category="pkgsrc-system"/>
@@ -979,7 +982,6 @@
 <outline text="whatweb @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/urbanadventurer/WhatWeb/commits/master.atom" category="pkgsrc-stuff"/>
 <outline text="wine-4.0.x-i386-appimage @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/mmtrt/WINE_AppImage/releases.atom" category="pkgsrc-stuff"/>
 <outline text="wireshark @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/wireshark/wireshark/releases.atom" category="pkgsrc-stuff"/>
-<outline text="wmctrl @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/saravanabalagi/wmctrl/commits/master.atom" category="pkgsrc-stuff"/>
 <outline text="wpscan @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/wpscanteam/wpscan/commits/master.atom" category="pkgsrc-stuff"/>
 <outline text="wpscan @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/wpscanteam/wpscan/releases.atom" category="pkgsrc-stuff"/>
 <outline text="xxhash @ github.com commits:dev" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/Cyan4973/xxHash/commits/dev.atom" category="pkgsrc-stuff"/>
