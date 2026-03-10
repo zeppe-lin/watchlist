@@ -385,6 +385,8 @@ $(curl -H 'Accept: application/atom+xml' https://github.com/KhronosGroup/Vulkan-
 https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-headers/-/tags?format=atom "vulkan-headers @ gitlab.archlinux.org tags"
 $(curl -H 'Accept: application/atom+xml' https://github.com/KhronosGroup/Vulkan-Loader/tags.atom) "vulkan-loader @ github.com tags"
 https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-icd-loader/-/tags?format=atom "vulkan-loader @ gitlab.archlinux.org tags"
+$(curl -H 'Accept: application/atom+xml' https://github.com/saravanabalagi/wmctrl/commits/master.atom) "wmctrl @ github.com commits"
+https://salsa.debian.org/salvage-team/wmctrl/-/commits/master?format=atom "wmctrl @ salsa.debian.org commits"
 https://tracker.debian.org/pkg/xautolock/rss "xautolock @ tracker.debian.org news"
 $(curl -H 'Accept: application/atom+xml' https://github.com/astrand/xclip/releases.atom) "xclip @ github.com releases"
 https://gitlab.archlinux.org/archlinux/packaging/packages/xdialog/-/tags?format=atom "xdialog @ gitlab.archlinux.org tags"

@@ -390,6 +390,8 @@
 <outline text="vulkan-headers @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-headers/-/tags?format=atom" category="pkgsrc-xorg"/>
 <outline text="vulkan-loader @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/KhronosGroup/Vulkan-Loader/tags.atom" category="pkgsrc-xorg"/>
 <outline text="vulkan-loader @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-icd-loader/-/tags?format=atom" category="pkgsrc-xorg"/>
+<outline text="wmctrl @ github.com commits" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/saravanabalagi/wmctrl/commits/master.atom" category="pkgsrc-xorg"/>
+<outline text="wmctrl @ salsa.debian.org commits" xmlUrl="https://salsa.debian.org/salvage-team/wmctrl/-/commits/master?format=atom" category="pkgsrc-xorg"/>
 <outline text="xautolock @ tracker.debian.org news" xmlUrl="https://tracker.debian.org/pkg/xautolock/rss" category="pkgsrc-xorg"/>
 <outline text="xclip @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/astrand/xclip/releases.atom" category="pkgsrc-xorg"/>
 <outline text="xdialog @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/xdialog/-/tags?format=atom" category="pkgsrc-xorg"/>
