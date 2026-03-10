@@ -871,9 +871,6 @@ wine-4.0.x-i386-appimage @ github.com releases
 wireshark @ github.com releases
   https://github.com/wireshark/wireshark/releases.atom
 
-wmctrl @ github.com commits:master
-  https://github.com/saravanabalagi/wmctrl/commits/master.atom
-
 wpscan @ github.com commits:master
   https://github.com/wpscanteam/wpscan/commits/master.atom
 
