@@ -7,6 +7,7 @@ Zeppe-Lin pkgsrc collections.
 The purpose of these feeds is to help maintainers watch for upstream
 software updates.
 
+---
 
 USAGE
 =====
@@ -20,6 +21,7 @@ For **newsraft**, use `newsraft` file:
 newsraft -f /path/to/newsraft
 ```
 
+---
 
 MAINTAINING
 ===========
@@ -35,6 +37,7 @@ Run `make` to see available targets.
 
 Collections are defined in `pkgsrc-*.txt` files.
 
+---
 
 LICENSE
 =======
