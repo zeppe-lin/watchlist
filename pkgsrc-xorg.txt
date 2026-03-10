@@ -151,6 +151,12 @@ vulkan-loader @ github.com tags
 vulkan-loader @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/vulkan-icd-loader/-/tags?format=atom
 
+wmctrl @ github.com commits
+  https://github.com/saravanabalagi/wmctrl/commits/master.atom
+
+wmctrl @ salsa.debian.org commits
+  https://salsa.debian.org/salvage-team/wmctrl/-/commits/master?format=atom
+
 xautolock @ tracker.debian.org news
   https://tracker.debian.org/pkg/xautolock/rss
 
