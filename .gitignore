@@ -1,0 +1,7 @@
+.*.un~
+.swp
+newsraft.sqlite3
+newsraft.sqlite3-journal
+
+# httpx resume file
+resume.cfg
