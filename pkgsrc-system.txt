@@ -358,6 +358,9 @@ rsync @ gitlab.archlinux.org tags
 screen @ savannah.gnu.org news
   https://savannah.gnu.org/news/atom.php?group=screen
 
+sdparm @ gitlab.archlinux.org commits:main
+  https://gitlab.archlinux.org/archlinux/packaging/packages/sdparm/-/commits/main?format=atom
+
 serf @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/serf/-/tags?format=atom
 

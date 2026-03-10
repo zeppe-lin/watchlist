@@ -271,6 +271,12 @@ libpipeline @ gitlab.archlinux.org tags
 libpipeline @ gitlab.com tags
   https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom
 
+libpkgcore @ github.com commits:master
+  https://github.com/zeppe-lin/libpkgcore/commits/master.atom
+
+librevdep @ github.com commits:master
+  https://github.com/zeppe-lin/librevdep/commits/master.atom
+
 libtirpc @ git.linux-nfs.org commits releases
   http://git.linux-nfs.org/?p=steved/libtirpc.git;a=atom
 
