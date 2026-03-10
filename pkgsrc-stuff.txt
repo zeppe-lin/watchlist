@@ -64,8 +64,8 @@ captal @ github.com commits:master
 captal @ github.com releases
   https://github.com/sighook/captal/releases.atom
 
-checksec @ github.com releases
-  https://github.com/slimm609/checksec.sh/releases.atom
+checksec-bin @ github.com releases
+  https://github.com/slimm609/checksec/releases.atom
 
 cowpatty @ github.com commits:master
   https://github.com/joswr1ght/cowpatty/commits/master.atom
@@ -491,7 +491,7 @@ p5-http-server-simple @ metacpan.org releases
   https://metacpan.org/dist/HTTP-Server-Simple/releases.rss
 
 p5-image-exiftool @ metacpan.org releases
-  https://exiftool.org/rss.xml
+  https://metacpan.org/dist/Image-ExifTool/releases.rss
 
 p5-image-size @ metacpan.org releases
   https://metacpan.org/dist/Image-Size/releases.rss
