@@ -376,6 +376,9 @@ ratpoison @ git.savannah.nongnu.org commits
 recordmydesktop @ github.com releases
   https://github.com/Enselic/recordmydesktop/releases.atom
 
+redshift @ github.com releases
+  https://github.com/jonls/redshift/releases.atom
+
 retrosmart-cursor-theme @ github.com commits:master
   https://github.com/mdomlop/retrosmart-x11-cursors/commits/master.atom
 

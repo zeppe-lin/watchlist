@@ -271,6 +271,9 @@ libpipeline @ gitlab.archlinux.org tags
 libpipeline @ gitlab.com tags
   https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom
 
+libpkgaudit @ github.com commits:master
+  https://github.com/zeppe-lin/libpkgaudit/commits/master.atom
+
 libpkgcore @ github.com commits:master
   https://github.com/zeppe-lin/libpkgcore/commits/master.atom
 
