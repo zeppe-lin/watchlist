@@ -98,6 +98,7 @@
 <outline text="libpcre2 @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/PCRE2Project/pcre2/releases.atom" category="pkgsrc-core"/>
 <outline text="libpipeline @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/libpipeline/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="libpipeline @ gitlab.com tags" xmlUrl="https://gitlab.com/cjwatson/libpipeline/-/tags?format=atom" category="pkgsrc-core"/>
+<outline text="libpkgaudit @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/libpkgaudit/commits/master.atom" category="pkgsrc-core"/>
 <outline text="libpkgcore @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/libpkgcore/commits/master.atom" category="pkgsrc-core"/>
 <outline text="librevdep @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/zeppe-lin/librevdep/commits/master.atom" category="pkgsrc-core"/>
 <outline text="libtirpc @ git.linux-nfs.org commits releases" xmlUrl="http://git.linux-nfs.org/?p=steved/libtirpc.git;a=atom" category="pkgsrc-core"/>
@@ -618,6 +619,7 @@
 <outline text="qt5ct @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/qt5ct/rss?path=/" category="pkgsrc-desktop"/>
 <outline text="ratpoison @ git.savannah.nongnu.org commits" xmlUrl="https://git.savannah.nongnu.org/cgit/ratpoison.git/atom" category="pkgsrc-desktop"/>
 <outline text="recordmydesktop @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/Enselic/recordmydesktop/releases.atom" category="pkgsrc-desktop"/>
+<outline text="redshift @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/jonls/redshift/releases.atom" category="pkgsrc-desktop"/>
 <outline text="retrosmart-cursor-theme @ github.com commits:master" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/mdomlop/retrosmart-x11-cursors/commits/master.atom" category="pkgsrc-desktop"/>
 <outline text="sbc @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/sbc/-/tags?format=atom" category="pkgsrc-desktop"/>
 <outline text="scrot @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/resurrecting-open-source-projects/scrot/releases.atom" category="pkgsrc-desktop"/>
