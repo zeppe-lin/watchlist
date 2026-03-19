@@ -169,9 +169,6 @@ gzip @ git.savannah.nongnu.org commits releases
 gzip @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/gzip/-/tags?format=atom
 
-hdparm @ sourceforge.net releases
-  https://sourceforge.net/projects/hdparm/rss?path=/hdparm
-
 iana-etc @ gitlab.archlinux.org tag
   https://gitlab.archlinux.org/archlinux/packaging/packages/iana-etc/-/tags?format=atom
 

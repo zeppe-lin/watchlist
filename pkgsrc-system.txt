@@ -127,6 +127,9 @@ hddtemp @ github.com commits
 hddtemp @ github.com tags
   https://github.com/vitlav/hddtemp/tags.atom
 
+hdparm @ sourceforge.net releases
+  https://sourceforge.net/projects/hdparm/rss?path=/hdparm
+
 hostapd @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/hostapd/-/tags?format=atom
 
