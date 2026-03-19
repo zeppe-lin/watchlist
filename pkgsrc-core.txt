@@ -370,6 +370,15 @@ openssl @ github.com releases
 openssl @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/openssl/-/tags?format=atom
 
+p5-class-inspector @ metacpan.org releases
+  https://metacpan.org/dist/Class-Inspector/releases.rss
+
+p5-file-sharedir @ metacpan.org releases
+  https://metacpan.org/dist/File-ShareDir/releases.rss
+
+p5-file-sharedir-install @ metacpan.org releases
+  https://metacpan.org/dist/File-ShareDir-Install/releases.rss
+
 p5-xml-parser @ metacpan.org releases
   https://metacpan.org/dist/XML-Parser/releases.rss
 
