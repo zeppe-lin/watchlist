@@ -64,7 +64,6 @@
 <outline text="groff @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/groff/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="gzip @ git.savannah.nongnu.org commits releases" xmlUrl="https://git.savannah.nongnu.org/cgit/gzip.git/atom" category="pkgsrc-core"/>
 <outline text="gzip @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/gzip/-/tags?format=atom" category="pkgsrc-core"/>
-<outline text="hdparm @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/hdparm/rss?path=/hdparm" category="pkgsrc-core"/>
 <outline text="iana-etc @ gitlab.archlinux.org tag" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/iana-etc/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="inetutils @ git.savannah.nongnu.org commits releases" xmlUrl="https://git.savannah.nongnu.org/cgit/inetutils.git/atom" category="pkgsrc-core"/>
 <outline text="inetutils @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/inetutils/-/tags?format=atom" category="pkgsrc-core"/>
@@ -238,6 +237,7 @@
 <outline text="grub2/grub2-efi @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/grub/-/tags?format=atom" category="pkgsrc-system"/>
 <outline text="hddtemp @ github.com commits" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/vitlav/hddtemp/commits/master.atom" category="pkgsrc-system"/>
 <outline text="hddtemp @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/vitlav/hddtemp/tags.atom" category="pkgsrc-system"/>
+<outline text="hdparm @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/hdparm/rss?path=/hdparm" category="pkgsrc-system"/>
 <outline text="hostapd @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/hostapd/-/tags?format=atom" category="pkgsrc-system"/>
 <outline text="htop @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/htop-dev/htop/releases.atom" category="pkgsrc-system"/>
 <outline text="iftop @ salsa.debian.org tags" xmlUrl="https://salsa.debian.org/debian/iftop/-/tags?format=atom" category="pkgsrc-system"/>
