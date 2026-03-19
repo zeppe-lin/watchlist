@@ -131,6 +131,9 @@
 <outline text="openssh @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/openssh/-/tags?format=atom" category="pkgsrc-core"/>
 <outline text="openssl @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/openssl/openssl/releases.atom" category="pkgsrc-core"/>
 <outline text="openssl @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/openssl/-/tags?format=atom" category="pkgsrc-core"/>
+<outline text="p5-class-inspector @ metacpan.org releases" xmlUrl="https://metacpan.org/dist/Class-Inspector/releases.rss" category="pkgsrc-core"/>
+<outline text="p5-file-sharedir @ metacpan.org releases" xmlUrl="https://metacpan.org/dist/File-ShareDir/releases.rss" category="pkgsrc-core"/>
+<outline text="p5-file-sharedir-install @ metacpan.org releases" xmlUrl="https://metacpan.org/dist/File-ShareDir-Install/releases.rss" category="pkgsrc-core"/>
 <outline text="p5-xml-parser @ metacpan.org releases" xmlUrl="https://metacpan.org/dist/XML-Parser/releases.rss" category="pkgsrc-core"/>
 <outline text="patch @ git.savannah.nongnu.org commits" xmlUrl="https://git.savannah.nongnu.org/cgit/patch.git/atom" category="pkgsrc-core"/>
 <outline text="patch @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/patch/-/tags?format=atom" category="pkgsrc-core"/>
