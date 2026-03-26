@@ -329,6 +329,7 @@
 <outline text="texinfo @ savannah.gnu.org news" xmlUrl="https://savannah.gnu.org/news/atom.php?group=texinfo" category="pkgsrc-system"/>
 <outline text="transmission @ github.com releases" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/transmission/transmission/releases.atom" category="pkgsrc-system"/>
 <outline text="tree @ gitlab.archlinux.org tags" xmlUrl="https://gitlab.archlinux.org/archlinux/packaging/packages/unix-tree/-/tags?format=atom" category="pkgsrc-system"/>
+<outline text="tree @ gitlab.com tags" xmlUrl="https://gitlab.com/OldManProgrammer/unix-tree/-/tags?format=atom" category="pkgsrc-system"/>
 <outline text="uftrace @ github.com tags" xmlUrl="exec:curl -H 'Accept: application/atom+xml' https://github.com/namhyung/uftrace/tags.atom" category="pkgsrc-system"/>
 <outline text="unzip @ sourceforge.net releases" xmlUrl="https://sourceforge.net/projects/infozip/rss?path=/UnZip%206.x%20%28latest%29" category="pkgsrc-system"/>
 <outline text="usbredir @ gitlab.freedesktop.org tags" xmlUrl="https://gitlab.freedesktop.org/spice/usbredir/-/tags?format=atom" category="pkgsrc-system"/>

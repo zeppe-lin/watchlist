@@ -324,6 +324,7 @@ $(curl -H 'Accept: application/atom+xml' https://github.com/the-tcpdump-group/tc
 https://savannah.gnu.org/news/atom.php?group=texinfo "texinfo @ savannah.gnu.org news"
 $(curl -H 'Accept: application/atom+xml' https://github.com/transmission/transmission/releases.atom) "transmission @ github.com releases"
 https://gitlab.archlinux.org/archlinux/packaging/packages/unix-tree/-/tags?format=atom "tree @ gitlab.archlinux.org tags"
+https://gitlab.com/OldManProgrammer/unix-tree/-/tags?format=atom "tree @ gitlab.com tags"
 $(curl -H 'Accept: application/atom+xml' https://github.com/namhyung/uftrace/tags.atom) "uftrace @ github.com tags"
 https://sourceforge.net/projects/infozip/rss?path=/UnZip%206.x%20%28latest%29 "unzip @ sourceforge.net releases"
 https://gitlab.freedesktop.org/spice/usbredir/-/tags?format=atom "usbredir @ gitlab.freedesktop.org tags"
