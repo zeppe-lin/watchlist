@@ -403,6 +403,9 @@ transmission @ github.com releases
 tree @ gitlab.archlinux.org tags
   https://gitlab.archlinux.org/archlinux/packaging/packages/unix-tree/-/tags?format=atom
 
+tree @ gitlab.com tags
+  https://gitlab.com/OldManProgrammer/unix-tree/-/tags?format=atom
+
 uftrace @ github.com tags
   https://github.com/namhyung/uftrace/tags.atom
 
